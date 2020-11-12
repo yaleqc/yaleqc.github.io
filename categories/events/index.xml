@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.github.io/categories/events/</link>
+    <description>Recent content in Events on Yale Undergraduate Quantum Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fall 2020 Interest Meeting</title>
+      <link>https://yaleqc.github.io/p/fall-2020-interest-meeting/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/fall-2020-interest-meeting/</guid>
+      <description>The Fall 2020 interest meeting will be held in the week of Nov 23rd, 2020. Please fill out this membership interest form (https://forms.gle/X2k8scLqNkgsvLv1A) to specify your availability and express your interest to join the Yale Undergrad Quantum Computing group.
+Slides and more information will be added after the interest meeting!</description>
+    </item>
+    
+  </channel>
+</rss>
