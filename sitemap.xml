@@ -33,6 +33,16 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.github.io/p/open-source-resources/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/tags/outreach/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.github.io/page/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url>
@@ -48,12 +58,32 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.github.io/p/qiskit/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/tags/qiskit/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yaleqc.github.io/tags/quantum-error-correction/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/p/qubit-by-qubit-initiative/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/categories/resources/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,10 +100,6 @@
   <url>
     <loc>https://yaleqc.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.github.io/categories/resources/</loc>
   </url>
   
   <url>

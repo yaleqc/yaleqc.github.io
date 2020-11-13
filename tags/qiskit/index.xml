@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open-source on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/tags/open-source/</link>
-    <description>Recent content in open-source on Yale Undergraduate Quantum Computing</description>
+    <title>qiskit on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.github.io/tags/qiskit/</link>
+    <description>Recent content in qiskit on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Open-source Resources</title>
-      <link>https://yaleqc.github.io/p/open-source-resources/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
-      <description>Here are some resources to help you along with your open source quantum endeavours.
-Quantum Open Source Foundation
- Open Source Projects Mentorship Learning Prizes and Funding  Unitary Fund
- Non-profit Microgrants Research projects  </description>
-    </item>
-    
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/qiskit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qiskit</title>
       <link>https://yaleqc.github.io/p/qiskit/</link>

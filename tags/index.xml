@@ -17,11 +17,29 @@
     </item>
     
     <item>
-      <title>open source</title>
+      <title>open-source</title>
       <link>https://yaleqc.github.io/tags/open-source/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>https://yaleqc.github.io/tags/outreach/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/tags/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qiskit</title>
+      <link>https://yaleqc.github.io/tags/qiskit/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/tags/qiskit/</guid>
       <description></description>
     </item>
     

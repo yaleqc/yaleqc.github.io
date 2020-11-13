@@ -18,6 +18,32 @@ Slides and more information will be added after the interest meeting!</descripti
     </item>
     
     <item>
+      <title>Open-source Resources</title>
+      <link>https://yaleqc.github.io/p/open-source-resources/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
+      <description>Here are some resources to help you along with your open source quantum endeavours.
+Quantum Open Source Foundation
+ Open Source Projects Mentorship Learning Prizes and Funding  Unitary Fund
+ Non-profit Microgrants Research projects  </description>
+    </item>
+    
+    <item>
+      <title>Qiskit</title>
+      <link>https://yaleqc.github.io/p/qiskit/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/qiskit/</guid>
+      <description>Qiskit is IBM&amp;rsquo;s open source quantum computing SDK. There is a vibrant community of open source developers and quantum advocates.
+Getting Started Join the Qiskit slack!
+Here are some curated tutorials to get yourself started with Qiskit and the IBM Quantum Experience:
+ Code your first quantum circuit CH 1-3 of Qiskit Textbook Beginner Tutorials  Events Stay up to date with Qiskit events.
+Past events:
+ Hackathons IBM Qiskit Global Summer School  Quantum Advocates Apply to become one of ~200 Quantum Advocate across ~30 countries at IBM.</description>
+    </item>
+    
+    <item>
       <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
       <link>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
@@ -26,6 +52,17 @@ Slides and more information will be added after the interest meeting!</descripti
       <description>Please check out this Surface Code Encoder and Minimum Weight Perfect Matching Decoder created by members Shantanu Jha &amp;lsquo;21, Henry Liu &amp;lsquo;21 and Will Sun &amp;lsquo;22 for IBM Qiskit Ignis.
 Here is the Github repo: https://github.com/Phionx/qiskit_surface_codes
 This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis.</description>
+    </item>
+    
+    <item>
+      <title>Qubit by Qubit Initiative</title>
+      <link>https://yaleqc.github.io/p/qubit-by-qubit-initiative/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/qubit-by-qubit-initiative/</guid>
+      <description>Apply for paid and volunteer opportunities at the Qubit by Qubit Initiative.
+Here are some of their current projects:
+ Developing homework, problem sets, or worksheets Developing middle or high school curricula for quantum Developing or editing content for textbook for high school students Developing quantum workshop for K-12 students Being a Teaching Assistant for intro course Teaching quantum workshops to K-12 students  Please reach out to member Shoumik Chowdhury &amp;lsquo;21 to learn more!</description>
     </item>
     
   </channel>
