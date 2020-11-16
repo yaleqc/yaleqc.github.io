@@ -28,12 +28,37 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.github.io/tags/research/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/categories/resources/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.github.io/tags/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://yaleqc.github.io/tags/yale/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/p/yale-quantum-institute/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.github.io/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/tags/yqi/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,11 +114,6 @@
   
   <url>
     <loc>https://yaleqc.github.io/p/qubit-by-qubit-initiative/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.github.io/categories/resources/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url>
   
