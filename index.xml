@@ -6,10 +6,10 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Fall 2020 Interest Meeting</title>
         <link>https://yaleqc.github.io/p/fall-2020-interest-meeting/</link>
-        <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
         
         <guid>https://yaleqc.github.io/p/fall-2020-interest-meeting/</guid>
         <description>&lt;img src="https://yaleqc.github.io/p/fall-2020-interest-meeting/background.jpg" alt="Featured image of post Fall 2020 Interest Meeting" /&gt;&lt;p&gt;The Fall 2020 interest meeting will be held on &lt;strong&gt;Nov 22nd, 2020 from 1:00PM to 1:30PM ET&lt;/strong&gt;.&lt;/p&gt;
@@ -18,6 +18,71 @@
 &lt;p&gt;Please fill out this membership interest form (&lt;a class=&#34;link&#34; href=&#34;https://forms.gle/X2k8scLqNkgsvLv1A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://forms.gle/X2k8scLqNkgsvLv1A&lt;/a&gt;) to join the Yale Undergrad Quantum Computing group mailing list and more.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Slides and more information will be added after the interest meeting!&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Project Ideas</title>
+        <link>https://yaleqc.github.io/p/project-ideas/</link>
+        <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.github.io/p/project-ideas/</guid>
+        <description>&lt;img src="https://yaleqc.github.io/p/project-ideas/Y_circuit.png" alt="Featured image of post Project Ideas" /&gt;&lt;p&gt;Please enter your project ideas here: &lt;a class=&#34;link&#34; href=&#34;https://forms.gle/93Nfbqi15hT6x1bM7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;forms.gle/93Nfbqi15hT6x1bM7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join our discord to discuss ideas with members. Please email &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; to get an invite link!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Much more coming soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;event-ideas&#34;&gt;Event Ideas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Yale QC Hackathon
+&lt;ul&gt;
+&lt;li&gt;Yale Quantum Institute Sponsorship&lt;/li&gt;
+&lt;li&gt;IBM Sponsorship&lt;/li&gt;
+&lt;li&gt;Partnership with Stanford&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;open-source-project-ideas&#34;&gt;Open Source Project Ideas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Surface Code Encoder and MWPM Decoder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;talk-ideas&#34;&gt;Talk Ideas&lt;/h3&gt;
+&lt;h3 id=&#34;tutorial-ideas&#34;&gt;Tutorial Ideas&lt;/h3&gt;
+&lt;h3 id=&#34;resource-ideas&#34;&gt;Resource Ideas&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>Yale Classes towards Quantum Information Science</title>
+        <link>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</link>
+        <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</guid>
+        <description>&lt;img src="https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/shankar.jpg" alt="Featured image of post Yale Classes towards Quantum Information Science" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;quantum-information&#34;&gt;Quantum Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Physics 345: &lt;em&gt;Introduction to Quantum Information Processing and Communication&lt;/em&gt;, Prof Steven Girvin&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Who should take it:&lt;/strong&gt; Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When is/was it offered:&lt;/strong&gt; Spring 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What does it cover:&lt;/strong&gt; Begins with a basic overview of quantum phenomena and covers the mathematical representation of quantum states as complex vectors, the superposition principle, entanglement and Bell inequalities, quantum gates and algorithms for quantum computers, quantum error correction, dense coding, teleportation, and secure quantum communication. The course also includes an introductory overview of how to use IBM Q.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Physics 660: &lt;em&gt;Quantum Information and Computation&lt;/em&gt;, Prof Shruti Puri&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Who should take it:&lt;/strong&gt; This is effectively the graduate version of Phys 345, and should be treated as such. The audience spans advanced undergraduates to graduate students. That said, Prof Puri makes every effort to start from first principles, making this course accessible to undergraduates and even motivated non-Physics majors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When is/was it offered:&lt;/strong&gt; Fall 2020&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What does it cover:&lt;/strong&gt; This course covers a wide range of topics ranging quantum circuits, universality, physical implementation of quantum operations, introduction to computational complexity, quantum algorithms, decoherence and noisy quantum channels, quantum error-correction and fault-tolerance, stabilizer formalism, error-correcting codes (Shor, Steane, surface-code, and others as time permits), quantum key distribution, quantum Shannon theory, entropy and data compression.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experimental-physics&#34;&gt;Experimental Physics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Physics 677: &lt;em&gt;Noise, Dissipation, Amplification, and Information&lt;/em&gt;, Prof Michel Devoret&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Who should take it:&lt;/strong&gt; This is a difficult graduate course accessible to undergraduates with an advanced background in at least quantum mechanics, statistical physics, and electromagnetism. Some background in solid state physics and/or quantum many body theory could be helpful, but is not required. This should be taken by students interested in conducting experimental research in fields such as superconducting circuit quantum computing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When is/was it offered:&lt;/strong&gt; Fall 2020&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What does it cover:&lt;/strong&gt; Physics explores phenomena displayed by simple systems through well-controlled experiments, whose results inform conceptual models. Central to these experiments are measurements of the system properties under varying conditions. In one form or another, measurements is performed by perturbing the system under study by a stimulus signal, and collecting the response signal. Acquiring the most precise information on a phenomenon of interest thus consists of maximizing the response signal and minimizing its accompanying noise. But what exactly is noise? Can noise itself have remarkable and worthwhile properties despite its fundamental uncertain character?  How can we mitigate its effects? The aim of this graduate-level course is to answer these questions, with emphasis on the case where the origin of noise is thermal or quantum fluctuations. These fluctuations are unavoidable for a system under measurement, which is  by essence open, and fundamentally  different from closed system studied in undergraduate courses. The fundamental fluctuations affecting measurements cannot be addressed by ordinary filters or shields, and have to be faced head-on. Of particular interest are the fluctuations inherent in the control and signal processing of the experiment itself. Thus, dissipation and amplification, important effects in operations involved in the measurement and control chains, are ultimately linked to noise. The form of the link is the essence of the Fluctuation-Dissipation Theorem (FDT), which was first uncovered by Einstein. Students will learn the concepts and main tools of the analysis of stochastic processes and information theory,  through the exploration of FDT and all its main applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -58,6 +123,8 @@
         
         <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
         <description>&lt;img src="https://yaleqc.github.io/p/open-source-resources/background.png" alt="Featured image of post Open-source Resources" /&gt;&lt;p&gt;&lt;em&gt;Here are some resources to help you along with your open source quantum endeavours.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://awesomeopensource.com/projects/quantum-computing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;QC Open Source Projects&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://qosf.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Quantum Open Source Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -65,6 +132,8 @@
 &lt;li&gt;Mentorship&lt;/li&gt;
 &lt;li&gt;Learning&lt;/li&gt;
 &lt;li&gt;Prizes and Funding&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://qosf.org/project_list/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Projects&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://unitary.fund/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Unitary Fund&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>foundations on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.github.io/tags/foundations/</link>
+    <description>Recent content in foundations on Yale Undergraduate Quantum Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/foundations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yale Classes towards Quantum Information Science</title>
+      <link>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</guid>
+      <description>Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.
+Quantum Information  Physics 345: Introduction to Quantum Information Processing and Communication, Prof Steven Girvin  Who should take it: Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.</description>
+    </item>
+    
+  </channel>
+</rss>

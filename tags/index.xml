@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>meeting</title>
       <link>https://yaleqc.github.io/tags/meeting/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.github.io/tags/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://yaleqc.github.io/tags/open-source/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classes</title>
+      <link>https://yaleqc.github.io/tags/classes/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/tags/classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foundations</title>
+      <link>https://yaleqc.github.io/tags/foundations/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/tags/foundations/</guid>
       <description></description>
     </item>
     
@@ -40,15 +67,6 @@
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.github.io/tags/yqi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>https://yaleqc.github.io/tags/open-source/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.github.io/tags/open-source/</guid>
       <description></description>
     </item>
     

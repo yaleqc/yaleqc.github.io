@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Yale Classes towards Quantum Information Science</title>
+      <link>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</guid>
+      <description>Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.
+Quantum Information  Physics 345: Introduction to Quantum Information Processing and Communication, Prof Steven Girvin  Who should take it: Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.</description>
+    </item>
+    
+    <item>
       <title>Yale Quantum Institute</title>
       <link>https://yaleqc.github.io/p/yale-quantum-institute/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
@@ -24,8 +34,9 @@ Useful Sites  quantuminstitute.yale.edu  Yale Quantum Institute Events Institute
       
       <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
       <description>Here are some resources to help you along with your open source quantum endeavours.
+QC Open Source Projects
 Quantum Open Source Foundation
- Open Source Projects Mentorship Learning Prizes and Funding  Unitary Fund
+ Open Source Projects Mentorship Learning Prizes and Funding Projects  Unitary Fund
  Non-profit Microgrants Research projects  </description>
     </item>
     

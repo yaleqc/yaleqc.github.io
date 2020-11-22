@@ -6,7 +6,19 @@
     <description>Recent content in Projects on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Ideas</title>
+      <link>https://yaleqc.github.io/p/project-ideas/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/project-ideas/</guid>
+      <description>Please enter your project ideas here: forms.gle/93Nfbqi15hT6x1bM7
+Join our discord to discuss ideas with members. Please email yaleqc@yale.edu to get an invite link!
+Much more coming soon&amp;hellip;
+Event Ideas  Yale QC Hackathon  Yale Quantum Institute Sponsorship IBM Sponsorship Partnership with Stanford    Open Source Project Ideas  Surface Code Encoder and MWPM Decoder  Talk Ideas Tutorial Ideas Resource Ideas </description>
+    </item>
+    
     <item>
       <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
       <link>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
