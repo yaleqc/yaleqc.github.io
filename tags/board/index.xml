@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>board on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.github.io/tags/board/</link>
+    <description>Recent content in board on Yale Undergraduate Quantum Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/board/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shantanu Jha</title>
+      <link>https://yaleqc.github.io/members/shantanu-jha/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/shantanu-jha/</guid>
+      <description>Physics and Mathematics, Class of 2021 LinkedIn, Github, Email Shantanu ’21 is a Math and Physics major and a member of Saybrook College. He founded YuQC to provide a support network to help younger or otherwise newcomer students explore the often daunting but wonderfully interdisciplinary field of quantum information science. His research spans quantum information theory work with Steven Girvin, terahertz wireless communications (6G) with Federico Capasso, and most recently, experimental quantum computation with Michel Devoret.</description>
+    </item>
+    
+  </channel>
+</rss>
