@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Ding (Board 2020-21)</title>
       <link>https://yaleqc.github.io/members/andy-ding/</link>
@@ -68,6 +68,29 @@
       
       <guid>https://yaleqc.github.io/members/shoumik-chowdhury/</guid>
       <description>Director of Resources (2020-21) Mathematics and Physics, Class of 2021 LinkedIn, Github As a long-time enthusiast of quantum computing, I am incredibly excited that a club like YuQC now exists at Yale. I am really looking forward to meeting other people interested in quantum science, and getting to learn from them — as well as being able to share what I have learned during my years working in this area. Given that Yale is a world-leading institution for quantum information science, it is only fitting that we have a proper undergraduate club dedicated to this field — I can&amp;rsquo;t wait to see what this group gets up to!</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://yaleqc.github.io/p/getting-started/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/getting-started/</guid>
+      <description>Please take a moment to explore our site and read this post from our Fall 2020 interest meeting to learn a bit more about our organization. Then, please read through the following comprehensive onboarding guide for new YuQC members.
+Sign-Up Please fill out this membership interest form (https://forms.gle/X2k8scLqNkgsvLv1A) to join the Yale Undergrad Quantum Computing group mailing list, discord and more.
+Join a Project Learn how to either join a project or even propose your own project here.</description>
+    </item>
+    
+    <item>
+      <title>Project Ideas</title>
+      <link>https://yaleqc.github.io/p/project-ideas/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/project-ideas/</guid>
+      <description>Projects: efforts ranging open-source packages to hackathon events to resource development and more!
+SUBMIT YOUR PROJECT IDEAS: Have an idea for a project? Click here to propose a project!
+NOTE: Each project requires a corresponding project proposal that can be filled out and submitted later. Click here for the template for the write-up.
+Get involved with a current project: Want to see what we&amp;rsquo;re working on? Click here to check out our project spreadsheet.</description>
     </item>
     
     <item>
@@ -278,17 +301,6 @@ Summary  Over 60+ form submissions, with 30+ interest meeting attendees! Each me
       
       <guid>https://yaleqc.github.io/members/matt-tu/</guid>
       <description>Computer Science, Class of 2022 LinkedIn, Github Through my CS major, I&amp;rsquo;ve learned a lot about the inner workings about bit-centered traditional computing, including its physical limitations. I&amp;rsquo;m really interested in potentially being one of the first people to &amp;ldquo;write code&amp;rdquo; for that runs on a quantum computer. I feel like my background in lower-level systems programming can be a huge asset for the organization, and as a non-Physics major I can learn a lot about quantum mechanics in general!</description>
-    </item>
-    
-    <item>
-      <title>Project Ideas</title>
-      <link>https://yaleqc.github.io/p/project-ideas/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.github.io/p/project-ideas/</guid>
-      <description>SUBMIT YOUR YOUR PROJECT IDEAS: Have an idea for a project? Click here to fill out a project form!
-NOTE: Each project requires a corresponding project write-up that you can fill out and add later. Click here for the template for the write-up.
-Get involved with a current project: Want to see what we&amp;rsquo;re working on? Want to join one of our existing project teams? Click here to check out our project spreadsheet.</description>
     </item>
     
     <item>

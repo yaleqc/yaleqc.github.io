@@ -6,7 +6,67 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Getting Started</title>
+        <link>https://yaleqc.github.io/p/getting-started/</link>
+        <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.github.io/p/getting-started/</guid>
+        <description>&lt;img src="https://yaleqc.github.io/p/getting-started/background.jpg" alt="Featured image of post Getting Started" /&gt;&lt;p&gt;Please take a moment to explore our &lt;a class=&#34;link&#34; href=&#34;../about/&#34; &gt;site&lt;/a&gt; and read this &lt;a class=&#34;link&#34; href=&#34;../p/fall-2020-interest-meeting/&#34; &gt;post&lt;/a&gt; from our Fall 2020 interest meeting to learn a bit more about our organization. Then, please read through the following comprehensive onboarding guide for new YuQC members.&lt;/p&gt;
+&lt;h2 id=&#34;sign-up&#34;&gt;Sign-Up&lt;/h2&gt;
+&lt;p&gt;Please fill out this membership interest form (&lt;a class=&#34;link&#34; href=&#34;https://forms.gle/X2k8scLqNkgsvLv1A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://forms.gle/X2k8scLqNkgsvLv1A&lt;/a&gt;) to join the Yale Undergrad Quantum Computing group mailing list, discord and more.&lt;/p&gt;
+&lt;h2 id=&#34;join-a-project&#34;&gt;Join a Project&lt;/h2&gt;
+&lt;p&gt;Learn how to either join a project or even propose your own project &lt;a class=&#34;link&#34; href=&#34;../p/project-ideas/&#34; &gt;here&lt;/a&gt;. &lt;strong&gt;Please note that every YuQC member is required to join at least one projects.&lt;/strong&gt; That said, project topics are quite broad, ranging from open-source packages to hackathon planning.&lt;/p&gt;
+&lt;h2 id=&#34;boot-camp&#34;&gt;Boot camp&lt;/h2&gt;
+&lt;p&gt;Please run through this virtual quantum computing boot camp curated by YuQC. This boot camp is highly encouraged for all YuQC members, especially those who are actively engaging with open-source package development.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Boot camp coming soon&amp;hellip;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;em&gt;Cover Photo&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Energy efficient: Google’s Sycamore quantum processor. (Courtesy: Erik Lucero/Google) &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+        </item>
+        <item>
+        <title>Project Ideas</title>
+        <link>https://yaleqc.github.io/p/project-ideas/</link>
+        <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.github.io/p/project-ideas/</guid>
+        <description>&lt;img src="https://yaleqc.github.io/p/project-ideas/Y_circuit.png" alt="Featured image of post Project Ideas" /&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Projects:&lt;/strong&gt; efforts ranging open-source packages to hackathon events to resource development and more!&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;submit-your-project-ideas&#34;&gt;SUBMIT YOUR PROJECT IDEAS:&lt;/h3&gt;
+&lt;p&gt;Have an idea for a project? &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdDTVg9DEfbUiycIuWfiEaUUPqR61V05ZfZ8klUEfWG287nXg/viewform&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here to propose a project!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: Each project requires a corresponding project proposal that can be filled out and submitted later. &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1nKb8-V9iswXkv-sYEkEvfsBaGlAJjnMe9XTHuBGVF3w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here for the template for the write-up&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;get-involved-with-a-current-project&#34;&gt;Get involved with a current project:&lt;/h3&gt;
+&lt;p&gt;Want to see what we&amp;rsquo;re working on?  &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/spreadsheets/d/1-O3ryWs_7w31GKwOXxcS24enav1GUZBqPg45mV_3ylg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here to check out our project spreadsheet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Want to join one of our existing project teams? &lt;a class=&#34;link&#34; href=&#34;https://forms.gle/K9he4MGLpfJas4j2A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here to sign up to join a project team&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;not-a-part-of-yuqc-but-want-to-get-involved&#34;&gt;Not a part of YuQC but want to get involved?&lt;/h3&gt;
+&lt;p&gt;We are also always looking for academic researchers and industry professionals in QC to mentor our project teams. Please reach out to &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; if this is something that might interest you.&lt;/p&gt;
+&lt;p&gt;If you are a Yale affiliate, please feel free to join our discord to discuss ideas with members. Please email &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; to get an invite link.&lt;/p&gt;
+&lt;p&gt;If you are a non-Yale affiliate, please reach out to &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; with proposals (&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1nKb8-V9iswXkv-sYEkEvfsBaGlAJjnMe9XTHuBGVF3w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;template&lt;/a&gt;) for joint projects between YuQC members and students from other universities or even industry professionals in QC.&lt;/p&gt;
+&lt;h3 id=&#34;new-ibm-open-science-prize&#34;&gt;(NEW!) IBM Open Science Prize:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ibmquantumawards.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IBM Quantum Awards: Open Science Prize&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Graph State Challenge (5 people / team)&lt;/li&gt;
+&lt;li&gt;SWAP Gate Challenge (5 people / team)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Fall 2020 Interest Meeting</title>
         <link>https://yaleqc.github.io/p/fall-2020-interest-meeting/</link>
         <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
@@ -50,37 +110,6 @@
 &lt;/ul&gt;
 &lt;p&gt;Please fill out this membership interest form (&lt;a class=&#34;link&#34; href=&#34;https://forms.gle/X2k8scLqNkgsvLv1A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://forms.gle/X2k8scLqNkgsvLv1A&lt;/a&gt;) to join the Yale Undergrad Quantum Computing group mailing list and more.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Project Ideas</title>
-        <link>https://yaleqc.github.io/p/project-ideas/</link>
-        <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://yaleqc.github.io/p/project-ideas/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/project-ideas/Y_circuit.png" alt="Featured image of post Project Ideas" /&gt;&lt;h3 id=&#34;submit-your-your-project-ideas&#34;&gt;SUBMIT YOUR YOUR PROJECT IDEAS:&lt;/h3&gt;
-&lt;p&gt;Have an idea for a project? &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdDTVg9DEfbUiycIuWfiEaUUPqR61V05ZfZ8klUEfWG287nXg/viewform&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here to fill out a project form!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: Each project requires a corresponding project write-up that you can fill out and add later. &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1nKb8-V9iswXkv-sYEkEvfsBaGlAJjnMe9XTHuBGVF3w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here for the template for the write-up&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;get-involved-with-a-current-project&#34;&gt;Get involved with a current project:&lt;/h3&gt;
-&lt;p&gt;Want to see what we&amp;rsquo;re working on? Want to join one of our existing project teams? &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/spreadsheets/d/1-O3ryWs_7w31GKwOXxcS24enav1GUZBqPg45mV_3ylg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Click here to check out our project spreadsheet&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;not-a-part-of-yuqc-but-want-to-get-involved&#34;&gt;Not a part of YuQC but want to get involved?&lt;/h3&gt;
-&lt;p&gt;We are also always looking for academic researchers and industry professionals in QC to mentor our project teams. Please reach out to &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; if this is something that might interest you.&lt;/p&gt;
-&lt;p&gt;If you are a Yale affiliate, please feel free to join our discord to discuss ideas with members. Please email &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; to get an invite link.&lt;/p&gt;
-&lt;p&gt;If you are a non-Yale affiliate, please reach out to &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; with proposals (&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1nKb8-V9iswXkv-sYEkEvfsBaGlAJjnMe9XTHuBGVF3w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;template&lt;/a&gt;) for joint projects between YuQC members and students from other universities or even industry professionals in QC.&lt;/p&gt;
-&lt;h3 id=&#34;new-ibm-open-science-prize&#34;&gt;(NEW!) IBM Open Science Prize:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ibmquantumawards.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;IBM Quantum Awards: Open Science Prize&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Graph State Challenge (5 people / team)&lt;/li&gt;
-&lt;li&gt;SWAP Gate Challenge (5 people / team)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         </item>
         <item>
