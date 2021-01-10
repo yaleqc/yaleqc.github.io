@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Ding (Board 2020-21)</title>
       <link>https://yaleqc.github.io/members/andy-ding/</link>
@@ -68,6 +68,16 @@
       
       <guid>https://yaleqc.github.io/members/shoumik-chowdhury/</guid>
       <description>Director of Resources (2020-21) Mathematics and Physics, Class of 2021 LinkedIn, Github As a long-time enthusiast of quantum computing, I am incredibly excited that a club like YuQC now exists at Yale. I am really looking forward to meeting other people interested in quantum science, and getting to learn from them — as well as being able to share what I have learned during my years working in this area. Given that Yale is a world-leading institution for quantum information science, it is only fitting that we have a proper undergraduate club dedicated to this field — I can&amp;rsquo;t wait to see what this group gets up to!</description>
+    </item>
+    
+    <item>
+      <title>Opportunities Bulletin</title>
+      <link>https://yaleqc.github.io/p/opportunities-bulletin/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/p/opportunities-bulletin/</guid>
+      <description>Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated weekly.
+Week of Jan 10, 2021  QHack:  QHack is a virtual hackathon hosted from Feb 17 to Feb 26th by Pennylane, a quantum machine learning company. Sign up here.    Week of Jan 3, 2021  PHYS 345: Introduction to Quantum Information Processing and Communication  Enroll in an excellent intro to QC taught by Prof Girvin in the Spring of 2021.</description>
     </item>
     
     <item>

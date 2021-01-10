@@ -6,7 +6,106 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Opportunities Bulletin</title>
+        <link>https://yaleqc.github.io/p/opportunities-bulletin/</link>
+        <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.github.io/p/opportunities-bulletin/</guid>
+        <description>&lt;img src="https://yaleqc.github.io/p/opportunities-bulletin/background.jpg" alt="Featured image of post Opportunities Bulletin" /&gt;&lt;p&gt;&lt;em&gt;Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated &lt;strong&gt;weekly.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;week-of-jan-10-2021&#34;&gt;Week of Jan 10, 2021&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;QHack&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;QHack is a virtual hackathon hosted from Feb 17 to Feb 26th by Pennylane, a quantum machine learning company.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://qhack.ai/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sign up here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;week-of-jan-3-2021&#34;&gt;Week of Jan 3, 2021&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PHYS 345: Introduction to Quantum Information Processing and Communication&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Enroll in an excellent intro to QC taught by Prof Girvin in the Spring of 2021.&lt;/li&gt;
+&lt;li&gt;To apply to be a peer tutor, pleas reach out directly to &lt;a class=&#34;link&#34; href=&#34;mailto:steven.girvin@yale.edu&#34; &gt;steven.girvin@yale.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research opportunity in Bhattacharjee Lab&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Contact &lt;a class=&#34;link&#34; href=&#34;mailto:raghav.pothukuchi@yale.edu&#34; &gt;raghav.pothukuchi@yale.edu&lt;/a&gt; for more information!&lt;/li&gt;
+&lt;li&gt;Blurb: &lt;em&gt;Our research group has a couple of exciting projects on using quantum computing to accelerate computational cognitive neuroscience. The first project involves developing quantum implementations of an attention allocation optimization problem that is central to many cognitive models. We have an initial quantum annealing implementation developed by an undergrad in the previous semester, that students could build on. The second project involves developing a quantum random walk implementation of a decision-making model. Conventionally, decision-making has been studied using drift diffusion models. For both projects, we would like to evaluate multiple implementations to understand the tradeoffs and identify the best variant(s). There is one undergrad working on this project since the last semester and we are looking for another student. It is preferable that students have a light background on quantum computing. This is a great opportunity to interact with computer scientists, cognitive neuroscientists and quantum physicists.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;week-of-dec-13-2020&#34;&gt;Week of Dec 13, 2020&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Quantum Undergraduate Research at IBM and Princeton (QURIP)&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Deadline: January 15, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ibm.com/blogs/research/2020/11/qurip-internship-program/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apply here.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Requirements: one recommendation letter, resume transcript.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Quantum Internships&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;DeadlineL January 8th, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://devblogs.microsoft.com/qsharp/interning-at-microsoft-quantum-2021/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apply here.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Undergraduate School on Experimental Quantum Information Processing&lt;/strong&gt; at UWaterloo
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://uwaterloo.ca/institute-for-quantum-computing/useqip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apply here.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Two week quantum camp with an option to get a stipend for summer research through the URA.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IBM Quantum International Internships&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/IBM/quantum-careers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IBM Opportunities Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brookhaven National Lab Internship Programs&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Contact: &lt;a class=&#34;link&#34; href=&#34;https://www.bnl.gov/staff/blackburn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;bnl.gov/staff/blackburn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bnl.gov/education/programs/program.php?q=188&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SULI Program&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;week-of-dec-6-2020&#34;&gt;Week of Dec 6, 2020&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research opportunity in Szefer group&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Contact: &lt;a class=&#34;link&#34; href=&#34;mailto:jakub.szefer@yale.edu&#34; &gt;jakub.szefer@yale.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a class=&#34;link&#34; href=&#34;https://caslab.csl.yale.edu/~jakub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;caslab.csl.yale.edu/~jakub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blurb: * My research group focuses on computer security, including post-quantum cryptographic algorithms, but would like to work with a student to learn about the Amazon Bracket service (remote access to quantum computers). A rough project outline is: study Amazon Bracket and create a demo of how to use it, evaluate Shor&amp;rsquo;s algorithm on the quantum computers available through Amazon Bracket, and finally evaluate potentials security issues due to shared access to the quantum computer hardware. The project would be for independent study in spring, with option to continue as paid summer 2021 position in our lab.*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IBM Qiskit Events and Community Manager&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Full-time role, &lt;a class=&#34;link&#34; href=&#34;https://careers.ibm.com/ShowJob/Id/1028975/Qiskit-Events-and-Community-Manager-%28-NYC-are-or-remote%29/?lang=en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;apply here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;em&gt;Cover Photo&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;IBM’s Q System One — still an experimental device, despite its polished looks. Credit: IBM. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+        </item>
+        <item>
         <title>Getting Started</title>
         <link>https://yaleqc.github.io/p/getting-started/</link>
         <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
