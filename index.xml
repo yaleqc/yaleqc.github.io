@@ -393,10 +393,18 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
         
         <guid>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/error_set.jpg" alt="Featured image of post Qiskit Surface Code Encoder and MWPM Decoder" /&gt;&lt;p&gt;Please check out this Surface Code Encoder and Minimum Weight Perfect Matching Decoder created by members &lt;a class=&#34;link&#34; href=&#34;mailto:shantanu.rajesh.jha@gmail.com&#34; &gt;Shantanu Jha&lt;/a&gt; &amp;lsquo;21, &lt;a class=&#34;link&#34; href=&#34;mailto:henry.c.liu@yale.edu&#34; &gt;Henry Liu&lt;/a&gt; &amp;lsquo;21 and &lt;a class=&#34;link&#34; href=&#34;mailto:will.sun@yale.edu&#34; &gt;Will Sun&lt;/a&gt; &amp;lsquo;22 for IBM Qiskit Ignis.&lt;/p&gt;
+        <description>&lt;img src="https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/error_set.jpg" alt="Featured image of post Qiskit Surface Code Encoder and MWPM Decoder" /&gt;&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.&lt;/p&gt;
 &lt;p&gt;Here is the Github repo: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Phionx/qiskit_surface_codes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/Phionx/qiskit_surface_codes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis.&lt;/p&gt;
+&lt;p&gt;Here is a link to our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/11atGyV14IOtWjEofLv9qRoqLacc_4Kps6jkuMympoRs/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
+&lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.&lt;/p&gt;
+&lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;
+&lt;p&gt;The first iteration of this project was created by members &lt;a class=&#34;link&#34; href=&#34;../../members/shantanu-jha&#34; &gt;Shantanu Jha&lt;/a&gt; &amp;lsquo;21, &lt;a class=&#34;link&#34; href=&#34;../../members/henry-liu/&#34; &gt;Henry Liu&lt;/a&gt; &amp;lsquo;21 and &lt;a class=&#34;link&#34; href=&#34;../../members/will-sun&#34; &gt;Will Sun&lt;/a&gt; &amp;lsquo;22 for IBM Qiskit Ignis. The team has grown since then, and a full roster will be posted soon!&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up on this &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;page&lt;/a&gt; or email shantanu.rajesh.jha [at] gmail.com.&lt;/p&gt;
 </description>
         </item>
         <item>

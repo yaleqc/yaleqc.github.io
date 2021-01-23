@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>qiskit on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/tags/qiskit/</link>
-    <description>Recent content in qiskit on Yale Undergraduate Quantum Computing</description>
+    <title>advanced on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.github.io/tags/advanced/</link>
+    <description>Recent content in advanced on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/qiskit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Qiskit</title>
-      <link>https://yaleqc.github.io/p/qiskit/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.github.io/p/qiskit/</guid>
-      <description>Qiskit is IBM&amp;rsquo;s open source quantum computing SDK. There is a vibrant community of open source developers and quantum advocates.
-Getting Started Join the Qiskit slack!
-Here are some curated tutorials to get yourself started with Qiskit and the IBM Quantum Experience:
- Code your first quantum circuit CH 1-3 of Qiskit Textbook Beginner Tutorials  Events Stay up to date with Qiskit events.
-Past events:
- Hackathons IBM Qiskit Global Summer School  Quantum Advocates Apply to become one of ~200 Quantum Advocate across ~30 countries at IBM.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
       <link>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
