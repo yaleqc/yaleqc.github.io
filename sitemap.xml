@@ -64,17 +64,42 @@
   
   <url>
     <loc>https://yaleqc.github.io/categories/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yaleqc.github.io/categories/events/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/tags/hackathon/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/tags/open-source/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yaleqc.github.io/post/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/p/quantum-coalition-hackathon/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/tags/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.github.io/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://yaleqc.github.io/tags/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yaleqc.github.io/tags/talks/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.github.io/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -115,11 +130,6 @@
   <url>
     <loc>https://yaleqc.github.io/p/getting-started/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.github.io/tags/open-source/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
