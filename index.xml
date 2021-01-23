@@ -403,6 +403,10 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
 &lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.&lt;/p&gt;
 &lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;
 &lt;p&gt;The first iteration of this project was created by members &lt;a class=&#34;link&#34; href=&#34;../../members/shantanu-jha&#34; &gt;Shantanu Jha&lt;/a&gt; &amp;lsquo;21, &lt;a class=&#34;link&#34; href=&#34;../../members/henry-liu/&#34; &gt;Henry Liu&lt;/a&gt; &amp;lsquo;21 and &lt;a class=&#34;link&#34; href=&#34;../../members/will-sun&#34; &gt;Will Sun&lt;/a&gt; &amp;lsquo;22 for IBM Qiskit Ignis. The team has grown since then, and a full roster will be posted soon!&lt;/p&gt;
+&lt;h1 id=&#34;mentor&#34;&gt;Mentor&lt;/h1&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dr. James Wootton&lt;/a&gt; is our project mentor and has been incredibly generous with his time and knowledge. His Toric code &lt;a class=&#34;link&#34; href=&#34;https://decodoku.blogspot.com/2016/03/6-toric-code.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;tutorial&lt;/a&gt; is a must read for beginners in the field of QEC codes. We are currently working with Dr. Wootton to incorporate this package into Qiskit Ignis.&lt;/p&gt;
 &lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up on this &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;page&lt;/a&gt; or email shantanu.rajesh.jha [at] gmail.com.&lt;/p&gt;
 </description>
