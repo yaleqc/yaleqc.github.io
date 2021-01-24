@@ -13,10 +13,10 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-      <description>About We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.
+      <description>Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.
+ About We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.
 Here is the Github repo: https://github.com/Phionx/qiskit_surface_codes
 Here is a link to our project proposal.
-Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.
 Team The first iteration of this project was created by members Shantanu Jha &amp;lsquo;21, Henry Liu &amp;lsquo;21 and Will Sun &amp;lsquo;22 for IBM Qiskit Ignis.</description>
     </item>
     

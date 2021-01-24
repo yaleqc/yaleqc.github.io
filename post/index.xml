@@ -71,6 +71,33 @@
     </item>
     
     <item>
+      <title>Barkotel Fesseha Zemenu</title>
+      <link>https://yaleqc.github.io/members/barkotel-zemenu/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/barkotel-zemenu/</guid>
+      <description>Physics, Class of 2024 </description>
+    </item>
+    
+    <item>
+      <title>Deyuan Li</title>
+      <link>https://yaleqc.github.io/members/deyuan-li/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/deyuan-li/</guid>
+      <description>Computer Science and Mathematics, Class of 2024 Github </description>
+    </item>
+    
+    <item>
+      <title>Francis Fedora</title>
+      <link>https://yaleqc.github.io/members/francis-fedora/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/francis-fedora/</guid>
+      <description>Physics, Class of 2023 </description>
+    </item>
+    
+    <item>
       <title>Opportunities Bulletin</title>
       <link>https://yaleqc.github.io/p/opportunities-bulletin/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -129,6 +156,15 @@ Sponsors Coming soon&amp;hellip;</description>
     </item>
     
     <item>
+      <title>Aaron Householder</title>
+      <link>https://yaleqc.github.io/members/aaron-householder/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/aaron-householder/</guid>
+      <description>Astrophysics, Class of 2023 Github </description>
+    </item>
+    
+    <item>
       <title>Speaker Series (Spring 2021)</title>
       <link>https://yaleqc.github.io/p/speaker-series-spring-2021/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
@@ -172,6 +208,15 @@ Join a project team: Want to see what we&amp;rsquo;re working on? Click here to 
     </item>
     
     <item>
+      <title>Allen Mi</title>
+      <link>https://yaleqc.github.io/members/allen-mi/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/allen-mi/</guid>
+      <description>Mathematics and Computer Science, Class of 2022 Github </description>
+    </item>
+    
+    <item>
       <title>Amanda Butler</title>
       <link>https://yaleqc.github.io/members/amanda-butler/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
@@ -208,6 +253,15 @@ Summary  Over 60+ form submissions, with 30+ interest meeting attendees! Each me
       
       <guid>https://yaleqc.github.io/members/henry-liu/</guid>
       <description>Applied Physics, Class of 2021 Github </description>
+    </item>
+    
+    <item>
+      <title>Jean Wang Huaijin</title>
+      <link>https://yaleqc.github.io/members/jean-wang-huaijin/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.github.io/members/jean-wang-huaijin/</guid>
+      <description>Physics and Philosophy, Class of 2022 Github </description>
     </item>
     
     <item>
@@ -344,10 +398,10 @@ Past events:
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-      <description>About We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.
+      <description>Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.
+ About We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.
 Here is the Github repo: https://github.com/Phionx/qiskit_surface_codes
 Here is a link to our project proposal.
-Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.
 Team The first iteration of this project was created by members Shantanu Jha &amp;lsquo;21, Henry Liu &amp;lsquo;21 and Will Sun &amp;lsquo;22 for IBM Qiskit Ignis.</description>
     </item>
     
