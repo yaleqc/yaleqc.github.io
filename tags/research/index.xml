@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/tags/research/</link>
+    <link>https://yaleqc.com/tags/research/</link>
     <description>Recent content in research on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yale Quantum Institute</title>
-      <link>https://yaleqc.github.io/p/yale-quantum-institute/</link>
+      <link>https://yaleqc.com/p/yale-quantum-institute/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/yale-quantum-institute/</guid>
+      <guid>https://yaleqc.com/p/yale-quantum-institute/</guid>
       <description>Here is a growing list of interdisciplinary Yale efforts in Quantum Computing under the umbrella of the Yale Quantum Institute.
 Useful Sites  quantuminstitute.yale.edu  Yale Quantum Institute Events Institute History Institute Members Join the mailing list!   quantum.yale.edu  A collection of quantum computing research efforts and labs at Yale looking into topics spanning Physics, Applied Physics, Chemistry, Computer Science, and Engineering. Information about the Quantum Week at Yale.</description>
     </item>

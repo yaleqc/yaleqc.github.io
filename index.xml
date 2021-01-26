@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Yale Undergraduate Quantum Computing</title>
-        <link>https://yaleqc.github.io/</link>
+        <link>https://yaleqc.com/</link>
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opportunities Bulletin</title>
-        <link>https://yaleqc.github.io/p/opportunities-bulletin/</link>
+        <link>https://yaleqc.com/p/opportunities-bulletin/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/opportunities-bulletin/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/opportunities-bulletin/background.jpg" alt="Featured image of post Opportunities Bulletin" /&gt;&lt;p&gt;&lt;em&gt;Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated &lt;strong&gt;weekly.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+        <guid>https://yaleqc.com/p/opportunities-bulletin/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/opportunities-bulletin/background.jpg" alt="Featured image of post Opportunities Bulletin" /&gt;&lt;p&gt;&lt;em&gt;Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated &lt;strong&gt;weekly.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;week-of-jan-17-2021&#34;&gt;Week of Jan 17, 2021&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -142,11 +142,11 @@
         </item>
         <item>
         <title>Quantum Coalition Hackathon</title>
-        <link>https://yaleqc.github.io/p/quantum-coalition-hackathon/</link>
+        <link>https://yaleqc.com/p/quantum-coalition-hackathon/</link>
         <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/quantum-coalition-hackathon/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/quantum-coalition-hackathon/background.png" alt="Featured image of post Quantum Coalition Hackathon" /&gt;&lt;h1 id=&#34;attend&#34;&gt;Attend&lt;/h1&gt;
+        <guid>https://yaleqc.com/p/quantum-coalition-hackathon/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/quantum-coalition-hackathon/background.png" alt="Featured image of post Quantum Coalition Hackathon" /&gt;&lt;h1 id=&#34;attend&#34;&gt;Attend&lt;/h1&gt;
 &lt;p&gt;Please visit &lt;a class=&#34;link&#34; href=&#34;http://qchack.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;qchack.io&lt;/a&gt; to learn more about this exciting virtual hackathon co-hosted by Yale and &lt;a class=&#34;link&#34; href=&#34;https://qc.stanford.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Stanford&lt;/a&gt;, open to everyone, and sponsored by Quantum Computing industry innovators.&lt;/p&gt;
@@ -159,10 +159,10 @@
         </item>
         <item>
         <title>Speaker Series (Spring 2021)</title>
-        <link>https://yaleqc.github.io/p/speaker-series-spring-2021/</link>
+        <link>https://yaleqc.com/p/speaker-series-spring-2021/</link>
         <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/speaker-series-spring-2021/</guid>
+        <guid>https://yaleqc.com/p/speaker-series-spring-2021/</guid>
         <description>&lt;p&gt;&lt;em&gt;Here is a summary and schedule of the YuQC Speaker Series.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;zoom-links--passwords&#34;&gt;Zoom Links &amp;amp; Passwords&lt;/h3&gt;
@@ -182,11 +182,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Getting Started</title>
-        <link>https://yaleqc.github.io/p/getting-started/</link>
+        <link>https://yaleqc.com/p/getting-started/</link>
         <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/getting-started/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/getting-started/background.jpg" alt="Featured image of post Getting Started" /&gt;&lt;p&gt;Please take a moment to explore our &lt;a class=&#34;link&#34; href=&#34;../../about/&#34; &gt;site&lt;/a&gt; and read this &lt;a class=&#34;link&#34; href=&#34;../fall-2020-interest-meeting/&#34; &gt;post&lt;/a&gt; from our Fall 2020 interest meeting to learn a bit more about our organization. Then, please read through the following onboarding guide for new YuQC members.&lt;/p&gt;
+        <guid>https://yaleqc.com/p/getting-started/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/getting-started/background.jpg" alt="Featured image of post Getting Started" /&gt;&lt;p&gt;Please take a moment to explore our &lt;a class=&#34;link&#34; href=&#34;../../about/&#34; &gt;site&lt;/a&gt; and read this &lt;a class=&#34;link&#34; href=&#34;../fall-2020-interest-meeting/&#34; &gt;post&lt;/a&gt; from our Fall 2020 interest meeting to learn a bit more about our organization. Then, please read through the following onboarding guide for new YuQC members.&lt;/p&gt;
 &lt;h2 id=&#34;sign-up&#34;&gt;Sign-Up&lt;/h2&gt;
 &lt;p&gt;Please fill out this membership interest form (&lt;a class=&#34;link&#34; href=&#34;https://forms.gle/X2k8scLqNkgsvLv1A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://forms.gle/X2k8scLqNkgsvLv1A&lt;/a&gt;) to join the Yale Undergrad Quantum Computing group mailing list, Discord and more. Most of our discussion is held over Discord.&lt;/p&gt;
@@ -209,11 +209,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Project Ideas</title>
-        <link>https://yaleqc.github.io/p/project-ideas/</link>
+        <link>https://yaleqc.com/p/project-ideas/</link>
         <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/project-ideas/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/project-ideas/Y_circuit.png" alt="Featured image of post Project Ideas" /&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Projects:&lt;/strong&gt; efforts ranging open-source packages to hackathon events to resource development and more!&lt;/em&gt;&lt;/p&gt;
+        <guid>https://yaleqc.com/p/project-ideas/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/project-ideas/Y_circuit.png" alt="Featured image of post Project Ideas" /&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Projects:&lt;/strong&gt; efforts ranging open-source packages to hackathon events to resource development and more!&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;submit-your-project-ideas&#34;&gt;SUBMIT YOUR PROJECT IDEAS:&lt;/h3&gt;
 &lt;p&gt;Have an idea for a project? &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdDTVg9DEfbUiycIuWfiEaUUPqR61V05ZfZ8klUEfWG287nXg/viewform&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here to propose a project!&lt;/a&gt;&lt;/p&gt;
@@ -249,11 +249,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Fall 2020 Interest Meeting</title>
-        <link>https://yaleqc.github.io/p/fall-2020-interest-meeting/</link>
+        <link>https://yaleqc.com/p/fall-2020-interest-meeting/</link>
         <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/fall-2020-interest-meeting/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/fall-2020-interest-meeting/background.jpg" alt="Featured image of post Fall 2020 Interest Meeting" /&gt;&lt;p&gt;The Fall 2020 interest meeting was held on &lt;strong&gt;Nov 22nd, 2020 from 1:00PM to 1:30PM ET&lt;/strong&gt;.&lt;/p&gt;
+        <guid>https://yaleqc.com/p/fall-2020-interest-meeting/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/fall-2020-interest-meeting/background.jpg" alt="Featured image of post Fall 2020 Interest Meeting" /&gt;&lt;p&gt;The Fall 2020 interest meeting was held on &lt;strong&gt;Nov 22nd, 2020 from 1:00PM to 1:30PM ET&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks so much to everyone who could make it.&lt;/p&gt;
 &lt;p&gt;If you were unable to attend the event, absolutely no worries. Please take a moment to view (yale.edu email required) the &lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1Mx7ENf3XF6RAyzfaqvo6nSZRH8O_5GV9/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;recording&lt;/a&gt; and the &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1pUo-CU1_CEoyfrg2iO9LnOFsESGAjqajzERoWB4C3Dg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -281,9 +281,9 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Add project ideas &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.github.io/p/project-ideas/&#34; &gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Add project ideas &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/p/project-ideas/&#34; &gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Submit Logos / Banners / Shirt Designs to &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Explore the &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.github.io/categories/resources/&#34; &gt;resources&lt;/a&gt; on our site&lt;/li&gt;
+&lt;li&gt;Explore the &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/categories/resources/&#34; &gt;resources&lt;/a&gt; on our site&lt;/li&gt;
 &lt;li&gt;Join the discord (channels, meetings), email &lt;a class=&#34;link&#34; href=&#34;mailto:yaleqc@yale.edu&#34; &gt;yaleqc@yale.edu&lt;/a&gt; for an invitation!&lt;/li&gt;
 &lt;li&gt;Regular meetings starting Spring 2021, though projects can start ASAP on &lt;strong&gt;discord&lt;/strong&gt;!&lt;/li&gt;
 &lt;/ul&gt;
@@ -295,11 +295,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Yale Classes towards Quantum Information Science</title>
-        <link>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</link>
+        <link>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</link>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/shankar.jpg" alt="Featured image of post Yale Classes towards Quantum Information Science" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.&lt;/em&gt;&lt;/p&gt;
+        <guid>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/yale-classes-towards-quantum-information-science/shankar.jpg" alt="Featured image of post Yale Classes towards Quantum Information Science" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;quantum-information&#34;&gt;Quantum Information&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Physics 345: &lt;em&gt;Introduction to Quantum Information Processing and Communication&lt;/em&gt;, Prof Steven Girvin&lt;/strong&gt;
@@ -331,11 +331,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Yale Quantum Institute</title>
-        <link>https://yaleqc.github.io/p/yale-quantum-institute/</link>
+        <link>https://yaleqc.com/p/yale-quantum-institute/</link>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/yale-quantum-institute/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/yale-quantum-institute/yqi.png" alt="Featured image of post Yale Quantum Institute" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of interdisciplinary Yale efforts in Quantum Computing under the umbrella of the Yale Quantum Institute.&lt;/em&gt;&lt;/p&gt;
+        <guid>https://yaleqc.com/p/yale-quantum-institute/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/yale-quantum-institute/yqi.png" alt="Featured image of post Yale Quantum Institute" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of interdisciplinary Yale efforts in Quantum Computing under the umbrella of the Yale Quantum Institute.&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;useful-sites&#34;&gt;Useful Sites&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://quantuminstitute.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -362,11 +362,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Open-source Resources</title>
-        <link>https://yaleqc.github.io/p/open-source-resources/</link>
+        <link>https://yaleqc.com/p/open-source-resources/</link>
         <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/open-source-resources/background.png" alt="Featured image of post Open-source Resources" /&gt;&lt;p&gt;&lt;em&gt;Here are some resources to help you along with your open source quantum endeavours.&lt;/em&gt;&lt;/p&gt;
+        <guid>https://yaleqc.com/p/open-source-resources/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/open-source-resources/background.png" alt="Featured image of post Open-source Resources" /&gt;&lt;p&gt;&lt;em&gt;Here are some resources to help you along with your open source quantum endeavours.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://awesomeopensource.com/projects/quantum-computing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;QC Open Source Projects&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://qosf.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -390,11 +390,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Qiskit</title>
-        <link>https://yaleqc.github.io/p/qiskit/</link>
+        <link>https://yaleqc.com/p/qiskit/</link>
         <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/qiskit/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/qiskit/background.jpg" alt="Featured image of post Qiskit" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://qiskit.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://yaleqc.com/p/qiskit/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/qiskit/background.jpg" alt="Featured image of post Qiskit" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://qiskit.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Qiskit&lt;/a&gt; is IBM&amp;rsquo;s open source quantum computing SDK. There is a vibrant community of open source developers and quantum advocates.&lt;/p&gt;
 &lt;h3 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h3&gt;
 &lt;p&gt;Join the Qiskit &lt;a class=&#34;link&#34; href=&#34;https://ibm.co/joinqiskitslack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -450,11 +450,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
-        <link>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
+        <link>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
         <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/background.jpg" alt="Featured image of post Qiskit Surface Code Encoder and MWPM Decoder" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
+        <guid>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/background.jpg" alt="Featured image of post Qiskit Surface Code Encoder and MWPM Decoder" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
 &lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
@@ -479,11 +479,11 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         </item>
         <item>
         <title>Qubit by Qubit Initiative</title>
-        <link>https://yaleqc.github.io/p/qubit-by-qubit-initiative/</link>
+        <link>https://yaleqc.com/p/qubit-by-qubit-initiative/</link>
         <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.github.io/p/qubit-by-qubit-initiative/</guid>
-        <description>&lt;img src="https://yaleqc.github.io/p/qubit-by-qubit-initiative/poster.jpg" alt="Featured image of post Qubit by Qubit Initiative" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://airtable.com/shrrViQe39lhUL3PP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://yaleqc.com/p/qubit-by-qubit-initiative/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/qubit-by-qubit-initiative/poster.jpg" alt="Featured image of post Qubit by Qubit Initiative" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://airtable.com/shrrViQe39lhUL3PP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apply&lt;/a&gt; for paid and volunteer opportunities at the Qubit by Qubit Initiative.&lt;/p&gt;
 &lt;p&gt;Here are some of their current &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1qs4RJXn8nc-Kmc8VDa6RF2D7I4WjUbLjvekFVzzXjYQ/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;projects&lt;/a&gt;:&lt;/p&gt;

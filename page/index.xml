@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/page/</link>
+    <link>https://yaleqc.com/page/</link>
     <description>Recent content in Pages on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://yaleqc.github.io/about/</link>
+      <link>https://yaleqc.com/about/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/about/</guid>
+      <guid>https://yaleqc.com/about/</guid>
       <description>Purpose We are an academic organization formed to promote and facilitate the participation of undergraduates in quantum information science at Yale.
 Activites Networking, Resources, Projects, Events.
 (Depending on member interests.)
@@ -21,19 +21,19 @@ Activites Networking, Resources, Projects, Events.
     
     <item>
       <title>Archives</title>
-      <link>https://yaleqc.github.io/archives/</link>
+      <link>https://yaleqc.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/archives/</guid>
+      <guid>https://yaleqc.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://yaleqc.github.io/search/</link>
+      <link>https://yaleqc.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/search/</guid>
+      <guid>https://yaleqc.com/search/</guid>
       <description></description>
     </item>
     

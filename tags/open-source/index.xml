@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open-source on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/tags/open-source/</link>
+    <link>https://yaleqc.com/tags/open-source/</link>
     <description>Recent content in open-source on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantum Coalition Hackathon</title>
-      <link>https://yaleqc.github.io/p/quantum-coalition-hackathon/</link>
+      <link>https://yaleqc.com/p/quantum-coalition-hackathon/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/quantum-coalition-hackathon/</guid>
+      <guid>https://yaleqc.com/p/quantum-coalition-hackathon/</guid>
       <description>Attend Please visit qchack.io to learn more about this exciting virtual hackathon co-hosted by Yale and Stanford, open to everyone, and sponsored by Quantum Computing industry innovators.
 Registration launches on February 14, 2021!
 Join the Organizing Committee If you are a YuQC member interested in joining the QC Hack Organizing Committee, please sign up here.
@@ -21,10 +21,10 @@ Sponsors Coming soon&amp;hellip;</description>
     
     <item>
       <title>Project Ideas</title>
-      <link>https://yaleqc.github.io/p/project-ideas/</link>
+      <link>https://yaleqc.com/p/project-ideas/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/project-ideas/</guid>
+      <guid>https://yaleqc.com/p/project-ideas/</guid>
       <description>Projects: efforts ranging open-source packages to hackathon events to resource development and more!
 SUBMIT YOUR PROJECT IDEAS: Have an idea for a project? Click here to propose a project!
 NOTE: Each project requires a corresponding project proposal that can be filled out and submitted later. Click here for the template for the write-up.
@@ -33,10 +33,10 @@ Join a project team: Want to see what we&amp;rsquo;re working on? Click here to 
     
     <item>
       <title>Open-source Resources</title>
-      <link>https://yaleqc.github.io/p/open-source-resources/</link>
+      <link>https://yaleqc.com/p/open-source-resources/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
+      <guid>https://yaleqc.com/p/open-source-resources/</guid>
       <description>Here are some resources to help you along with your open source quantum endeavours.
 QC Open Source Projects
 Quantum Open Source Foundation
@@ -46,10 +46,10 @@ Quantum Open Source Foundation
     
     <item>
       <title>Qiskit</title>
-      <link>https://yaleqc.github.io/p/qiskit/</link>
+      <link>https://yaleqc.com/p/qiskit/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/qiskit/</guid>
+      <guid>https://yaleqc.com/p/qiskit/</guid>
       <description>Qiskit is IBM&amp;rsquo;s open source quantum computing SDK. There is a vibrant community of open source developers and quantum advocates.
 Getting Started Join the Qiskit slack!
 Here are some curated tutorials to get yourself started with Qiskit and the IBM Quantum Experience:
@@ -60,10 +60,10 @@ Past events:
     
     <item>
       <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
-      <link>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
+      <link>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
+      <guid>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
       <description>Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.
  About We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.
 Here is the Github repo: https://github.com/Phionx/qiskit_surface_codes

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>opportunities on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/tags/opportunities/</link>
+    <link>https://yaleqc.com/tags/opportunities/</link>
     <description>Recent content in opportunities on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/tags/opportunities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/opportunities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opportunities Bulletin</title>
-      <link>https://yaleqc.github.io/p/opportunities-bulletin/</link>
+      <link>https://yaleqc.com/p/opportunities-bulletin/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/opportunities-bulletin/</guid>
+      <guid>https://yaleqc.com/p/opportunities-bulletin/</guid>
       <description>Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated weekly.
 Week of Jan 17, 2021   Brookhaven National Laboratory: Foundations of Quantum Programming (QIS301)
  Dates: June 14th - July 9th, 2021 The Co-design Center for Quantum Advantage (C2QA) at BNL is pleased to offer a four-week, hands-on, introductory workshop to teach students fundamental quantum information science (QIS) by writing software for an actual quantum computer.</description>

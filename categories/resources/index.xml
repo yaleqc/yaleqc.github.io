@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/categories/resources/</link>
+    <link>https://yaleqc.com/categories/resources/</link>
     <description>Recent content in Resources on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opportunities Bulletin</title>
-      <link>https://yaleqc.github.io/p/opportunities-bulletin/</link>
+      <link>https://yaleqc.com/p/opportunities-bulletin/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/opportunities-bulletin/</guid>
+      <guid>https://yaleqc.com/p/opportunities-bulletin/</guid>
       <description>Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated weekly.
 Week of Jan 17, 2021   Brookhaven National Laboratory: Foundations of Quantum Programming (QIS301)
  Dates: June 14th - July 9th, 2021 The Co-design Center for Quantum Advantage (C2QA) at BNL is pleased to offer a four-week, hands-on, introductory workshop to teach students fundamental quantum information science (QIS) by writing software for an actual quantum computer.</description>
@@ -20,10 +20,10 @@ Week of Jan 17, 2021   Brookhaven National Laboratory: Foundations of Quantum Pr
     
     <item>
       <title>Getting Started</title>
-      <link>https://yaleqc.github.io/p/getting-started/</link>
+      <link>https://yaleqc.com/p/getting-started/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/getting-started/</guid>
+      <guid>https://yaleqc.com/p/getting-started/</guid>
       <description>Please take a moment to explore our site and read this post from our Fall 2020 interest meeting to learn a bit more about our organization. Then, please read through the following onboarding guide for new YuQC members.
 Sign-Up Please fill out this membership interest form (https://forms.gle/X2k8scLqNkgsvLv1A) to join the Yale Undergrad Quantum Computing group mailing list, Discord and more. Most of our discussion is held over Discord.
 Join a Project Learn how to join existing projects and even propose new projects here.</description>
@@ -31,30 +31,30 @@ Join a Project Learn how to join existing projects and even propose new projects
     
     <item>
       <title>Yale Classes towards Quantum Information Science</title>
-      <link>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</link>
+      <link>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/yale-classes-towards-quantum-information-science/</guid>
+      <guid>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</guid>
       <description>Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.
 Quantum Information  Physics 345: Introduction to Quantum Information Processing and Communication, Prof Steven Girvin  Who should take it: Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.</description>
     </item>
     
     <item>
       <title>Yale Quantum Institute</title>
-      <link>https://yaleqc.github.io/p/yale-quantum-institute/</link>
+      <link>https://yaleqc.com/p/yale-quantum-institute/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/yale-quantum-institute/</guid>
+      <guid>https://yaleqc.com/p/yale-quantum-institute/</guid>
       <description>Here is a growing list of interdisciplinary Yale efforts in Quantum Computing under the umbrella of the Yale Quantum Institute.
 Useful Sites  quantuminstitute.yale.edu  Yale Quantum Institute Events Institute History Institute Members Join the mailing list!   quantum.yale.edu  A collection of quantum computing research efforts and labs at Yale looking into topics spanning Physics, Applied Physics, Chemistry, Computer Science, and Engineering. Information about the Quantum Week at Yale.</description>
     </item>
     
     <item>
       <title>Open-source Resources</title>
-      <link>https://yaleqc.github.io/p/open-source-resources/</link>
+      <link>https://yaleqc.com/p/open-source-resources/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/open-source-resources/</guid>
+      <guid>https://yaleqc.com/p/open-source-resources/</guid>
       <description>Here are some resources to help you along with your open source quantum endeavours.
 QC Open Source Projects
 Quantum Open Source Foundation
@@ -64,10 +64,10 @@ Quantum Open Source Foundation
     
     <item>
       <title>Qiskit</title>
-      <link>https://yaleqc.github.io/p/qiskit/</link>
+      <link>https://yaleqc.com/p/qiskit/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/p/qiskit/</guid>
+      <guid>https://yaleqc.com/p/qiskit/</guid>
       <description>Qiskit is IBM&amp;rsquo;s open source quantum computing SDK. There is a vibrant community of open source developers and quantum advocates.
 Getting Started Join the Qiskit slack!
 Here are some curated tutorials to get yourself started with Qiskit and the IBM Quantum Experience:

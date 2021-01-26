@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yale Undergraduate Quantum Computing</title>
-    <link>https://yaleqc.github.io/categories/</link>
+    <link>https://yaleqc.com/categories/</link>
     <description>Recent content in Categories on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events</title>
-      <link>https://yaleqc.github.io/categories/events/</link>
+      <link>https://yaleqc.com/categories/events/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/categories/events/</guid>
+      <guid>https://yaleqc.com/categories/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>https://yaleqc.github.io/categories/members/</link>
+      <link>https://yaleqc.com/categories/members/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/categories/members/</guid>
+      <guid>https://yaleqc.com/categories/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://yaleqc.github.io/categories/resources/</link>
+      <link>https://yaleqc.com/categories/resources/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/categories/resources/</guid>
+      <guid>https://yaleqc.com/categories/resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://yaleqc.github.io/categories/projects/</link>
+      <link>https://yaleqc.com/categories/projects/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.github.io/categories/projects/</guid>
+      <guid>https://yaleqc.com/categories/projects/</guid>
       <description></description>
     </item>
     
