@@ -6,22 +6,67 @@
     <description>Recent content in Tags on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hackathon</title>
-      <link>https://yaleqc.com/tags/hackathon/</link>
-      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      <title>api</title>
+      <link>https://yaleqc.com/tags/api/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/tags/hackathon/</guid>
+      <guid>https://yaleqc.com/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cirq</title>
+      <link>https://yaleqc.com/tags/cirq/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/cirq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intermediate</title>
+      <link>https://yaleqc.com/tags/intermediate/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/intermediate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open-source</title>
       <link>https://yaleqc.com/tags/open-source/</link>
-      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://yaleqc.com/tags/programming/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qiskit</title>
+      <link>https://yaleqc.com/tags/qiskit/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/qiskit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://yaleqc.com/tags/hackathon/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/hackathon/</guid>
       <description></description>
     </item>
     
@@ -130,15 +175,6 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/tags/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>qiskit</title>
-      <link>https://yaleqc.com/tags/qiskit/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/tags/qiskit/</guid>
       <description></description>
     </item>
     

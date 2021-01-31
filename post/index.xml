@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Ding (Board 2020-21)</title>
       <link>https://yaleqc.com/members/andy-ding/</link>
@@ -142,6 +142,16 @@ Week of Jan 17, 2021   Brookhaven National Laboratory: Foundations of Quantum Pr
       
       <guid>https://yaleqc.com/members/yigit-kilicoglu/</guid>
       <description>Computer Science and Physics, Class of 2024 LinkedIn Yiğit is interested in the mathematics of quantum computation. Having a background in programming, he is also into quantum cryptography. Outside of academics, Yiğit is an avid tennis, piano and accordion player.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Programming API</title>
+      <link>https://yaleqc.com/p/quantum-programming-api/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/quantum-programming-api/</guid>
+      <description>About The goal of this project is to provide a quantum programming API that will help people who want to incorporate quantum speed-ups into their classical programs much easier.
+This project aims to both create the infrastructure to communicate with quantum systems and to create with that same infrastructure. We hope that our efforts in building this can lead to inspiration and further advances with the use of quantum computing in the broader computer science community.</description>
     </item>
     
     <item>
