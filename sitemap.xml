@@ -373,7 +373,19 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.com/tags/beginner/</loc>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.com/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/simulation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</loc>
   </url>
   
 </urlset>

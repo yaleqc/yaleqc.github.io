@@ -187,5 +187,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>beginner</title>
+      <link>https://yaleqc.com/tags/beginner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://yaleqc.com/tags/simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

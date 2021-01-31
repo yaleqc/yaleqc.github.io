@@ -525,6 +525,38 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
 &lt;p&gt;Please reach out to member &lt;a class=&#34;link&#34; href=&#34;mailto:shoumik.chowdhury@yale.edu&#34; &gt;Shoumik Chowdhury&lt;/a&gt; &amp;lsquo;21 to learn more!&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Simulation and Optimization of Quantum Error Correction Circuits</title>
+        <link>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/loops.png" alt="Featured image of post Simulation and Optimization of Quantum Error Correction Circuits" /&gt;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;We are exploring quantum error correction and investigating tools for simulating quantum control systems. A full introduction and background on this project can be found on our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;p&gt;This project was originally proposed by faculty sponsor &lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dr. Steven Girvin&lt;/a&gt; and is lead by member &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ben McDonough&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Current contributing members include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/sofia-fausone/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sofia Fausone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/katerina-kargioti/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Katrina Kargioti&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/allen-mi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Allen Mi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Special thanks to senior member &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/jean-wang-huaijin/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jean Wang&lt;/a&gt; for providing additional academic support and guidance.&lt;/p&gt;
+&lt;h2 id=&#34;mentor&#34;&gt;Mentor&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dr. Steven Girvin&lt;/a&gt; is our project mentor, and has generously offered his knowledge and support. Professor Girvin’s academic research is currently focused on ‘circuit QED,’ the quantum physics of microwave electrical circuits using superconducting Josephson junctions as artificial atoms.  Check out his video &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/uD69GCYF9Zg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&amp;ldquo;Introduction to Quantum Error Correction&amp;rdquo;&lt;/a&gt; for an acessible yet precise introduction to circuit QED and the problem of quantum error correction.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;We are happy to accept new members! If you&amp;rsquo;re interested and want to become a part of this project, check out the &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;YuQC project ideas page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
