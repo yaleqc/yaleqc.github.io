@@ -5,11 +5,12 @@
     <link>https://yaleqc.com/tags/beginner/</link>
     <description>Recent content in beginner on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yaleqc.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulation and Optimization of Quantum Error Correction Circuits</title>
       <link>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</guid>
       <description>About We are exploring quantum error correction and investigating tools for simulating quantum control systems. A full introduction and background on this project can be found on our project proposal.
