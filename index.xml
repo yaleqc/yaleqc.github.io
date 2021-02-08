@@ -6,7 +6,7 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opportunities Bulletin</title>
         <link>https://yaleqc.com/p/opportunities-bulletin/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -176,6 +176,20 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
+</description>
+        </item>
+        <item>
+        <title>YuQC Resources and Knowledge Database</title>
+        <link>https://yaleqc.com/p/yuqc-resources-and-knowledge-database/</link>
+        <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.com/p/yuqc-resources-and-knowledge-database/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/yuqc-resources-and-knowledge-database/background.png" alt="Featured image of post YuQC Resources and Knowledge Database" /&gt;&lt;p&gt;Please take a look through the following database for resources that will help you learn more about quantum computation and quantum information science. Use the organizational features to sort items by type or by difficult level to suit your specific needs, or search directly for items!&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.notion.so/YuQC-Resources-List-a4848a5e0bdd4637af67db3cecfa7a2d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;YuQC Resource Database&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To suggest other items to add to our database, please reach out to the Director of Resources: &lt;a class=&#34;link&#34; href=&#34;mailto:shoumik.chowdhury@yale.edu&#34; &gt;Shoumik Chowdhury&lt;/a&gt;. Additionally, PDFs of certain texts may be available upon request &amp;mdash; reach out to learn more!&lt;/p&gt;
+&lt;h3 id=&#34;yuqc-quantum-bootcamp&#34;&gt;YuQC Quantum Bootcamp&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Coming soon!&lt;/em&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -391,12 +405,12 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Yale Classes towards Quantum Information Science</title>
-        <link>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</link>
+        <title>Quantum Information Science classes at Yale</title>
+        <link>https://yaleqc.com/p/quantum-information-science-classes-at-yale/</link>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</guid>
-        <description>&lt;img src="https://yaleqc.com/p/yale-classes-towards-quantum-information-science/shankar.jpg" alt="Featured image of post Yale Classes towards Quantum Information Science" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.&lt;/em&gt;&lt;/p&gt;
+        <guid>https://yaleqc.com/p/quantum-information-science-classes-at-yale/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/quantum-information-science-classes-at-yale/shankar.jpg" alt="Featured image of post Quantum Information Science classes at Yale" /&gt;&lt;p&gt;&lt;em&gt;Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;quantum-information&#34;&gt;Quantum Information&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Physics 345: &lt;em&gt;Introduction to Quantum Information Processing and Communication&lt;/em&gt;, Prof Steven Girvin&lt;/strong&gt;

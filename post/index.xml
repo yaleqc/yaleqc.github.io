@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Ding (Board 2020-21)</title>
       <link>https://yaleqc.com/members/andy-ding/</link>
@@ -142,6 +142,17 @@ Week of Feb 7, 2021   Yale Quantum Institute Mentoring Workshop
       
       <guid>https://yaleqc.com/members/yigit-kilicoglu/</guid>
       <description>Computer Science and Physics, Class of 2024 LinkedIn Yiğit is interested in the mathematics of quantum computation. Having a background in programming, he is also into quantum cryptography. Outside of academics, Yiğit is an avid tennis, piano and accordion player.</description>
+    </item>
+    
+    <item>
+      <title>YuQC Resources and Knowledge Database</title>
+      <link>https://yaleqc.com/p/yuqc-resources-and-knowledge-database/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/yuqc-resources-and-knowledge-database/</guid>
+      <description>Please take a look through the following database for resources that will help you learn more about quantum computation and quantum information science. Use the organizational features to sort items by type or by difficult level to suit your specific needs, or search directly for items!
+YuQC Resource Database
+To suggest other items to add to our database, please reach out to the Director of Resources: Shoumik Chowdhury. Additionally, PDFs of certain texts may be available upon request &amp;mdash; reach out to learn more!</description>
     </item>
     
     <item>
@@ -369,11 +380,11 @@ Summary  Over 60+ form submissions, with 30+ interest meeting attendees! Each me
     </item>
     
     <item>
-      <title>Yale Classes towards Quantum Information Science</title>
-      <link>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</link>
+      <title>Quantum Information Science classes at Yale</title>
+      <link>https://yaleqc.com/p/quantum-information-science-classes-at-yale/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/p/yale-classes-towards-quantum-information-science/</guid>
+      <guid>https://yaleqc.com/p/quantum-information-science-classes-at-yale/</guid>
       <description>Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.
 Quantum Information  Physics 345: Introduction to Quantum Information Processing and Communication, Prof Steven Girvin  Who should take it: Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.</description>
     </item>
