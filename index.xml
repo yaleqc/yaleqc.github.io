@@ -6,7 +6,7 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opportunities Bulletin</title>
         <link>https://yaleqc.com/p/opportunities-bulletin/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -210,6 +210,44 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
+</description>
+        </item>
+        <item>
+        <title>Quantum Cryptography</title>
+        <link>https://yaleqc.com/p/quantum-cryptography/</link>
+        <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.com/p/quantum-cryptography/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/quantum-cryptography/quantum_cryptography_image.jpeg" alt="Featured image of post Quantum Cryptography" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;We are going through an edX course titled &lt;a class=&#34;link&#34; href=&#34;https://learning.edx.org/course/course-v1:CaltechDelftX&amp;#43;QuCryptox&amp;#43;3T2018/home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&amp;ldquo;Quantum Cryptography&amp;rdquo;&lt;/a&gt; to gain knowledge and experience in the field. Once a sufficient amount of fundamental concepts is learned, we will start to implement quantum network protocols for the &lt;a class=&#34;link&#34; href=&#34;https://wiki.veriqloud.fr/index.php?title=Main_Page&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Protocol Zoo&lt;/a&gt;, an open repository founded by our very own Shraddha Singh.&lt;/p&gt;
+&lt;h3 id=&#34;project-lead&#34;&gt;Project Lead:&lt;/h3&gt;
+&lt;p&gt;Yiğit Kılıçoğlu,
+Argyris Giannisis Manes&lt;/p&gt;
+&lt;h3 id=&#34;team&#34;&gt;Team:&lt;/h3&gt;
+&lt;p&gt;Sami Alves,
+Ines Chung-Halpern,
+Sofia Fausone,
+Francis Fedora,
+Allen Mi
+Ryan Bose-Roy,
+Will Sun,
+Barkotel Zemenu&lt;/p&gt;
+&lt;h3 id=&#34;mentor&#34;&gt;Mentor:&lt;/h3&gt;
+&lt;p&gt;Shraddha Singh&lt;/p&gt;
+&lt;h1 id=&#34;check-out-our-work&#34;&gt;Check out our work!&lt;/h1&gt;
+&lt;p&gt;Here is a link to our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1XOPRelKBYnTYFPAre-nfVp2gVnA_q2P_UQVU5vztB6w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;project proposal&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;p&gt;Yiğit Kılıçoğlu, email: &lt;a href=&#34;mailto:yigit.kilicoglu@yale.edu&#34;&gt;yigit.kilicoglu@yale.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Argyris Giannisis Manes, email: &lt;a href=&#34;mailto:argyris.giannisismanes@yale.edu&#34;&gt;argyris.giannisismanes@yale.edu&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up using &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSensJvl0WIrNsZOUKkK3t67OOa5gixF-ddUrVhqHGoMMWIXIw/viewform&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this&lt;/a&gt; form or contact Yiğit or Argy.&lt;/p&gt;
 </description>
         </item>
         <item>

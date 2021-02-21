@@ -183,12 +183,57 @@
   </url>
   
   <url>
-    <loc>https://yaleqc.com/tags/books/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <loc>https://yaleqc.com/tags/beginner/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yaleqc.com/categories/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/cryptography/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/post/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/categories/projects/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/p/quantum-cryptography/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/quantum-cryptography/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/quantum-networks/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/books/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,27 +253,12 @@
   </url>
   
   <url>
-    <loc>https://yaleqc.com/post/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yaleqc.com/categories/resources/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yaleqc.com/tags/resources/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/tags/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://yaleqc.com/categories/projects/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yaleqc.com/tags/qiskit/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -270,11 +295,6 @@
   <url>
     <loc>https://yaleqc.com/p/quantum-programming-api/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/tags/beginner/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
