@@ -183,22 +183,47 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.com/categories/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/categories/events/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/post/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/p/speaker-series-spring-2021/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/talks/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.com/tags/beginner/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yaleqc.com/categories/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yaleqc.com/tags/cryptography/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/post/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -219,16 +244,6 @@
   
   <url>
     <loc>https://yaleqc.com/tags/quantum-networks/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/tags/</loc>
-    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,11 +328,6 @@
   </url>
   
   <url>
-    <loc>https://yaleqc.com/categories/events/</loc>
-    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yaleqc.com/tags/hackathon/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -330,16 +340,6 @@
   <url>
     <loc>https://yaleqc.com/categories/members/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/p/speaker-series-spring-2021/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/tags/talks/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
