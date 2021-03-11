@@ -6,7 +6,7 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opportunities Bulletin</title>
         <link>https://yaleqc.com/p/opportunities-bulletin/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -265,17 +265,22 @@
         <item>
         <title>Speaker Series (Spring 2021)</title>
         <link>https://yaleqc.com/p/speaker-series-spring-2021/</link>
-        <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
         
         <guid>https://yaleqc.com/p/speaker-series-spring-2021/</guid>
-        <description>&lt;p&gt;&lt;em&gt;Here is a summary and schedule of the YuQC Speaker Series.&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;img src="https://yaleqc.com/p/speaker-series-spring-2021/background.png" alt="Featured image of post Speaker Series (Spring 2021)" /&gt;&lt;p&gt;&lt;em&gt;Here is a summary and schedule of the YuQC Speaker Series.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;information--recordings&#34;&gt;Information &amp;amp; Recordings&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Check out this &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/playlist?list=PLFiJNKRQff-S-7G8Fo4OzBtU0VB5FGjxI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Youtube playlist&lt;/a&gt; of all past talk recordings!!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Please click &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/spreadsheets/d/1WMN2Xac517kuJ6f2m2hrAx4ek-1PcXTXWsk6Uz30oQs/edit#gid=0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;p&gt;Please click &lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/yuqcspring2021events&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;  (yale.edu account required) to access zoom links, meeting passwords, and, eventually, recordings for this speaker series.&lt;/p&gt;
 &lt;hr&gt;
+&lt;h3 id=&#34;students-in-quantum-night&#34;&gt;Students in Quantum Night&lt;/h3&gt;
+&lt;h4 id=&#34;hosted-by-yuqc-and-stanford-qcahttpsqcstanfordedu&#34;&gt;Hosted by YuQC and &lt;a class=&#34;link&#34; href=&#34;https://qc.stanford.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stanford QCA&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;march-17-8-930pm-et&#34;&gt;March 17, 8-9:30PM ET&lt;/h4&gt;
+&lt;p&gt;The YuQC Speaker Series is happy to announce Students in Quantum night. This intercollegiate event is co-hosted by the Yale Undergrad Quantum Computing group and the Stanford Quantum Computing Association, and will feature brief (~10mins) research presentations from &lt;strong&gt;3 Yale&lt;/strong&gt; and &lt;strong&gt;3 Stanford&lt;/strong&gt; undergraduate students. Stay tuned for our speaker list, and look forward to learning more about undergraduate research efforts in quantum computation and quantum engineering at Yale and Stanford.&lt;/p&gt;
 &lt;h3 id=&#34;prof-liang-jiang-uchicago&#34;&gt;Prof. Liang Jiang, &lt;em&gt;UChicago&lt;/em&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;the-era-of-quantum-information&#34;&gt;The Era of Quantum Information&lt;/h4&gt;
 &lt;h4 id=&#34;february-23rd-7pm-et&#34;&gt;February 23rd, 7PM ET&lt;/h4&gt;
