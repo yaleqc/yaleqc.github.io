@@ -278,12 +278,12 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;prof-michel-devoret&#34;&gt;Prof. Michel Devoret&lt;/h3&gt;
 &lt;h4 id=&#34;error-correction-of-logical-quantum-bits&#34;&gt;Error correction of logical quantum bits&lt;/h4&gt;
-&lt;h4 id=&#34;march-26-time-tba&#34;&gt;March 26, Time TBA&lt;/h4&gt;
+&lt;h4 id=&#34;march-26-630pm-730pm-et&#34;&gt;March 26, 6:30PM-7:30PM ET&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Currently the F. W. Beinecke Professor of Applied Physics at Yale University (which he joined in 2002), Prof. Michel Devoret focuses his research on experimental solid state physics with emphasis on quantum mechanical electronics or &amp;ldquo;quantronics&amp;rdquo;. In this new type of electronics, electrical collective degrees of freedom like currents and voltages behave quantum mechanically. Such mesoscopic phenomena are particularly important in the realization of quantum information processing superconducting devices based on Josephson junctions, which is his main research goal.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 The accuracy of logical operations on quantum bits (qubits) must be improved for quantum computers to surpass classical ones in useful tasks. To that effect, quantum information must be robust to noise that affects the underlying physical system. Rather than completely suppressing noise, quantum error correction  aims at preventing it from causing logical errors. This approach derives from the reasonable assumption that noise is local: it does not act in a coordinated way on different parts of the physical system. Therefore, if a logical qubit is encoded non-locally, it is possible, during a limited time,  to detect and correct noise-induced evolution before it corrupts the encoded information. We will discuss how recent experiments based on superconducting cavities and transmon artificial atoms - employed here as ancillary non-linear elements - realize error correction, and their prospect for autonomous error correction, without which scaling up will be essentially impossible.&lt;/p&gt;
 &lt;h3 id=&#34;students-in-quantum-night&#34;&gt;Students in Quantum Night&lt;/h3&gt;
-&lt;h4 id=&#34;march-17-8-930pm-et&#34;&gt;March 17, 8-9:30PM ET&lt;/h4&gt;
+&lt;h4 id=&#34;march-17-8-9pm-et&#34;&gt;March 17, 8-9PM ET&lt;/h4&gt;
 &lt;p&gt;The YuQC Speaker Series is happy to announce Students in Quantum night. This speaker event will feature brief (~10-15mins) research presentations from Yale undergraduate student researchers. Stay tuned for our speaker list, and look forward to learning more about undergraduate research efforts in quantum computation and quantum engineering at Yale.&lt;/p&gt;
 &lt;h3 id=&#34;prof-liang-jiang-uchicago&#34;&gt;Prof. Liang Jiang, &lt;em&gt;UChicago&lt;/em&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;the-era-of-quantum-information&#34;&gt;The Era of Quantum Information&lt;/h4&gt;
