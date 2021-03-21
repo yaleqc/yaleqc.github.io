@@ -19,15 +19,12 @@ Team: Sami Alves, Ines Chung-Halpern, Sofia Fausone, Francis Fedora, Allen Mi Ry
     </item>
     
     <item>
-      <title>Simulation and Optimization of Quantum Error Correction Circuits</title>
-      <link>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Quantum Error Correction Study Group</title>
+      <link>https://yaleqc.com/p/quantum-error-correction-study-group/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</guid>
-      <description>About We are exploring quantum error correction and investigating tools for simulating quantum control systems. A full introduction and background on this project can be found on our project proposal.
-Team This project was originally proposed by faculty sponsor Dr. Steven Girvin and is lead by member Ben McDonough.
-Current contributing members include:
- Sofia Fausone Katrina Kargioti Allen Mi  Special thanks to senior member Jean Wang for providing additional academic support and guidance.</description>
+      <guid>https://yaleqc.com/p/quantum-error-correction-study-group/</guid>
+      <description>About We are exploring quantum error correction. We will start with the quantum repition code, and move into more complicated examples of quantum error correction. Every week, one project member will prepare a short presentation addressing that week&amp;rsquo;s topic. Each topic will be accompanied by a short weekly project, which will be a textbook problem, a qiskit exercise, or a challenge based on the last week’s presentation. A full introduction and background on this project can be found on our project proposal.</description>
     </item>
     
   </channel>

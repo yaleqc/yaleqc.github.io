@@ -44,11 +44,29 @@
     </item>
     
     <item>
+      <title>quantum error correction</title>
+      <link>https://yaleqc.com/tags/quantum-error-correction/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/quantum-error-correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quantum networks</title>
       <link>https://yaleqc.com/tags/quantum-networks/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/tags/quantum-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study group</title>
+      <link>https://yaleqc.com/tags/study-group/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/tags/study-group/</guid>
       <description></description>
     </item>
     
@@ -139,24 +157,6 @@
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/tags/qiskit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quantum error correction</title>
-      <link>https://yaleqc.com/tags/quantum-error-correction/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/tags/quantum-error-correction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simulation</title>
-      <link>https://yaleqc.com/tags/simulation/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/tags/simulation/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>study group on Yale Undergraduate Quantum Computing</title>
+    <link>https://yaleqc.com/tags/study-group/</link>
+    <description>Recent content in study group on Yale Undergraduate Quantum Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/study-group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Error Correction Study Group</title>
+      <link>https://yaleqc.com/p/quantum-error-correction-study-group/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/quantum-error-correction-study-group/</guid>
+      <description>About We are exploring quantum error correction. We will start with the quantum repition code, and move into more complicated examples of quantum error correction. Every week, one project member will prepare a short presentation addressing that week&amp;rsquo;s topic. Each topic will be accompanied by a short weekly project, which will be a textbook problem, a qiskit exercise, or a challenge based on the last week’s presentation. A full introduction and background on this project can be found on our project proposal.</description>
+    </item>
+    
+  </channel>
+</rss>

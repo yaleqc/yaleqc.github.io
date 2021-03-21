@@ -243,7 +243,22 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.com/tags/quantum-error-correction/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/p/quantum-error-correction-study-group/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.com/tags/quantum-networks/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/study-group/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -310,21 +325,6 @@
   <url>
     <loc>https://yaleqc.com/p/quantum-programming-api/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/tags/quantum-error-correction/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/tags/simulation/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>

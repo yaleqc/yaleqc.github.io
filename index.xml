@@ -13,6 +13,43 @@
         
         <guid>https://yaleqc.com/p/opportunities-bulletin/</guid>
         <description>&lt;img src="https://yaleqc.com/p/opportunities-bulletin/background.jpg" alt="Featured image of post Opportunities Bulletin" /&gt;&lt;p&gt;&lt;em&gt;Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated &lt;strong&gt;weekly.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;week-of-mar-21-2021&#34;&gt;Week of Mar 21, 2021&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Spring School On Quantum Error Correction&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This school is aimed at experimentalists and new theory students working in quantum information science and related fields. The goals of the school are to provide both a primer of quantum error correction and an overview of recent achievements, as well as to bring together a multidisciplinary group of researchers to help build a common language around quantum error correction. Speakers include: Shruti Puri, John Martinis, and Ken Brown, among others!&lt;/li&gt;
+&lt;li&gt;Dates: April 26-30, 2021.&lt;/li&gt;
+&lt;li&gt;RSVP link &lt;a class=&#34;link&#34; href=&#34;https://www.eventbrite.com/e/spring-school-on-quantum-error-correction-tickets-145940394649&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. Register soon!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Duke STAQ Quantum Ideas Virtual Summer School&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An NSF-funded quantum computing summer school at Duke aimed at undergraduates, graduate students, and industry participants. Some speakers include: Ken Brown, Aram Harrow, Sophia Economou, Abhinav Kandala, David McKay, and others.&lt;/li&gt;
+&lt;li&gt;Dates: June 7-11, 2021.&lt;/li&gt;
+&lt;li&gt;Registration link &lt;a class=&#34;link&#34; href=&#34;https://staq.pratt.duke.edu/summer-school&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. The deadline to apply is April 15!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;QuTiP Developer Role at RIKEN Theoretical Physics Lab&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a job post for a [one]-year job opportunity to work on maintaining and improving QuTiP (the Quantum Toolbox in Python). Compensation is competitive with academic community standards and will depend on the candidate experience (PhD graduate or not, etc.). The candidate will work at RIKEN, Wako campus, Japan, within the Theoretical Quantum Physics Laboratory (Lab head: Franco Nori, Chief Scientist).&lt;/li&gt;
+&lt;li&gt;Apply &lt;a class=&#34;link&#34; href=&#34;http://qutip.org/jobs.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;. Also see link for additional details, and preferred experience, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Miscellaneous Job Postings at Google Quantum AI&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Quantum AI is currenly hiring (including several bachelors-degree level jobs)! Take a look at the following &lt;a class=&#34;link&#34; href=&#34;https://careers.google.com/jobs/results/90385442756534982-measurement-hardware-engineer-quantum-ai/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Measurement Hardware Engineer&lt;/strong&gt;&lt;/a&gt; role, as well as this &lt;a class=&#34;link&#34; href=&#34;https://careers.google.com/jobs/results/122171865427780294-software-engineer-qkernel-quantum-ai/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;/a&gt; role.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;week-of-mar-7-2021&#34;&gt;Week of Mar 7, 2021&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -341,6 +378,31 @@ Barkotel Zemenu&lt;/p&gt;
 </description>
         </item>
         <item>
+        <title>Quantum Error Correction Study Group</title>
+        <link>https://yaleqc.com/p/quantum-error-correction-study-group/</link>
+        <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.com/p/quantum-error-correction-study-group/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/quantum-error-correction-study-group/loops.png" alt="Featured image of post Quantum Error Correction Study Group" /&gt;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;We are exploring quantum error correction. We will start with the quantum repition code, and move into more complicated examples of quantum error correction. Every week, one project member will prepare a short presentation addressing that week&amp;rsquo;s topic. Each topic will be accompanied by a short weekly project, which will be a textbook problem, a qiskit exercise, or a challenge based on the last week’s presentation. A full introduction and background on this project can be found on our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Meetings will take place Saturdays at 1pm ET at &lt;a class=&#34;link&#34; href=&#34;https://yale.zoom.us/j/7934646471&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this Zoom link&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;p&gt;This project was originally proposed by faculty sponsor &lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dr. Steven Girvin&lt;/a&gt; and is lead by member &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ben McDonough&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Team is currently open! Come to interest meeting taking place &lt;em&gt;Saturday, March 27th, 1pm ET&lt;/em&gt; at &lt;a class=&#34;link&#34; href=&#34;https://yale.zoom.us/j/7934646471&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this Zoom link&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mentor&#34;&gt;Mentor&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dr. Steven Girvin&lt;/a&gt; is our project mentor, and has generously offered his knowledge and support. Professor Girvin’s academic research is currently focused on ‘circuit QED,’ the quantum physics of microwave electrical circuits using superconducting Josephson junctions as artificial atoms.  Check out his video &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/uD69GCYF9Zg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&amp;ldquo;Introduction to Quantum Error Correction&amp;rdquo;&lt;/a&gt; for an acessible yet precise introduction to circuit QED and the problem of quantum error correction.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re interested and want to become a part of this project, drop by one of our meetings! If you would like to be added to the project discord, fill out the project sign-up form on the &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;YuQC project ideas page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>YuQC Resources and Knowledge Database</title>
         <link>https://yaleqc.com/p/yuqc-resources-and-knowledge-database/</link>
         <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
@@ -380,38 +442,6 @@ we aim to actually build the legos, so that you and the rest of the community ca
     &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up on this &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;page&lt;/a&gt; or email &lt;a href=&#34;mailto:seun.omonije@yale.edu&#34;&gt;seun.omonije@yale.edu&lt;/a&gt;.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Simulation and Optimization of Quantum Error Correction Circuits</title>
-        <link>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</link>
-        <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/</guid>
-        <description>&lt;img src="https://yaleqc.com/p/simulation-and-optimization-of-quantum-error-correction-circuits/loops.png" alt="Featured image of post Simulation and Optimization of Quantum Error Correction Circuits" /&gt;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-&lt;p&gt;We are exploring quantum error correction and investigating tools for simulating quantum control systems. A full introduction and background on this project can be found on our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;p&gt;This project was originally proposed by faculty sponsor &lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dr. Steven Girvin&lt;/a&gt; and is lead by member &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Ben McDonough&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Current contributing members include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/sofia-fausone/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Sofia Fausone&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/katerina-kargioti/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Katrina Kargioti&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/allen-mi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Allen Mi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Special thanks to senior member &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/jean-wang-huaijin/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Jean Wang&lt;/a&gt; for providing additional academic support and guidance.&lt;/p&gt;
-&lt;h2 id=&#34;mentor&#34;&gt;Mentor&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dr. Steven Girvin&lt;/a&gt; is our project mentor, and has generously offered his knowledge and support. Professor Girvin’s academic research is currently focused on ‘circuit QED,’ the quantum physics of microwave electrical circuits using superconducting Josephson junctions as artificial atoms.  Check out his video &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/uD69GCYF9Zg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&amp;ldquo;Introduction to Quantum Error Correction&amp;rdquo;&lt;/a&gt; for an acessible yet precise introduction to circuit QED and the problem of quantum error correction.&lt;/p&gt;
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;We are happy to accept new members! If you&amp;rsquo;re interested and want to become a part of this project, check out the &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;YuQC project ideas page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
