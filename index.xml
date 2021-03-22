@@ -737,19 +737,22 @@ we aim to actually build the legos, so that you and the rest of the community ca
         
         <guid>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
         <description>&lt;img src="https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/background.jpg" alt="Featured image of post Qiskit Surface Code Encoder and MWPM Decoder" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
-&lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis. Our immediate goal is to demonstrate the rotated surface code threshold point in simulation.&lt;/p&gt;
+&lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis. Our ultimate goal is to create general Topological Code interfaces, with sepecific implementations using the CSS (XXXX/ZZZZ) surface code, XZZX surface code, and repetition code,&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;We are building a Surface Code Encoder and Minimum Weight Perfect Matching Decoder package for Qiskit Ignis.&lt;/p&gt;
+&lt;p&gt;We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.&lt;/p&gt;
 &lt;p&gt;Here is the Github repo: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Phionx/qiskit_surface_codes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/Phionx/qiskit_surface_codes&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Here is a link to our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/11atGyV14IOtWjEofLv9qRoqLacc_4Kps6jkuMympoRs/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;
-&lt;p&gt;The first iteration of this project was created by members &lt;a class=&#34;link&#34; href=&#34;../../members/shantanu-jha&#34; &gt;Shantanu Jha&lt;/a&gt; &amp;lsquo;21, &lt;a class=&#34;link&#34; href=&#34;../../members/henry-liu/&#34; &gt;Henry Liu&lt;/a&gt; &amp;lsquo;21 and &lt;a class=&#34;link&#34; href=&#34;../../members/will-sun&#34; &gt;Will Sun&lt;/a&gt; &amp;lsquo;22 for IBM Qiskit Ignis.&lt;/p&gt;
+&lt;p&gt;The first iteration of this project was created by members &lt;a class=&#34;link&#34; href=&#34;../../members/shantanu-jha&#34; &gt;Shantanu Jha&lt;/a&gt; &amp;lsquo;21, &lt;a class=&#34;link&#34; href=&#34;../../members/henry-liu/&#34; &gt;Henry Liu&lt;/a&gt; &amp;lsquo;21, &lt;a class=&#34;link&#34; href=&#34;../../members/will-sun&#34; &gt;Will Sun&lt;/a&gt; &amp;lsquo;22, Shraddha Singh (Grad), and Andy Ding (Grad).&lt;/p&gt;
 &lt;p&gt;The team has grown since then! Here is an updated roster:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Project Lead:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../../members/shantanu-jha&#34; &gt;Shantanu Jha&lt;/a&gt; &lt;em&gt;(project lead)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../../members/jessie-chen&#34; &gt;Jessie Chen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../../members/allen-mi&#34; &gt;Allen Mi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../../members/aaron-householder&#34; &gt;Aaron Householder&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;mentor&#34;&gt;Mentor&lt;/h1&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
