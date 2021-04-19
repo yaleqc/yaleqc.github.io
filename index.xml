@@ -6,7 +6,7 @@
         <description>Recent content on Yale Undergraduate Quantum Computing</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Opportunities Bulletin</title>
         <link>https://yaleqc.com/p/opportunities-bulletin/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -302,7 +302,7 @@
         <item>
         <title>Speaker Series (Spring 2021)</title>
         <link>https://yaleqc.com/p/speaker-series-spring-2021/</link>
-        <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
         
         <guid>https://yaleqc.com/p/speaker-series-spring-2021/</guid>
         <description>&lt;img src="https://yaleqc.com/p/speaker-series-spring-2021/background.png" alt="Featured image of post Speaker Series (Spring 2021)" /&gt;&lt;p&gt;&lt;em&gt;Here is a summary and schedule of the YuQC Speaker Series.&lt;/em&gt;&lt;/p&gt;
@@ -313,6 +313,18 @@
 &lt;p&gt;Please click &lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/yuqcspring2021events&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;  (yale.edu account required) to access zoom links, meeting passwords, and, eventually, recordings for this speaker series.&lt;/p&gt;
 &lt;hr&gt;
+&lt;h3 id=&#34;dr-zlatko-minev&#34;&gt;Dr. Zlatko Minev&lt;/h3&gt;
+&lt;h4 id=&#34;to-catch-and-reverse-a-quantum-jump-mid-flight&#34;&gt;To catch and reverse a quantum jump mid-flight&lt;/h4&gt;
+&lt;h4 id=&#34;april-21-700pm-800pm-et&#34;&gt;April 21, 7:00PM-8:00PM ET&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Dr. Minev is a scientist with an applied experimental and theoretical background, focused on quantum computing and fundamental physics. He holds a permanent research position at IBM Quantum, at TJ Watson. Dr. Minev received his Ph.D. in Applied Physics from Yale University, working in the Devoret Quantum Lab.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+In this talk, Dr. Minev will be talking about his paper published in Nature in 2019: &lt;a href=&#34;https://www.nature.com/articles/s41586-019-1287-z&#34;&gt;https://www.nature.com/articles/s41586-019-1287-z&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;prof-raymond-laflamme&#34;&gt;Prof. Raymond Laflamme&lt;/h3&gt;
+&lt;h4 id=&#34;fireside-chat&#34;&gt;Fireside Chat&lt;/h4&gt;
+&lt;h4 id=&#34;april-8-700pm-800pm-et&#34;&gt;April 8, 7:00PM-8:00PM ET&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Professor Raymond Laflamme is the founder of the Institute for Quantum Computing at the University of Waterloo and a Canada Research Chair in Quantum Computing. Prof. Laflamme began his career working with Stephen Hawking on questions in quantum gravity and cosmology, but his interests have moved to quantum information science and technology. As a pioneering scientist in quantum information theory. Prof. Laflamme laid down the mathematical framework for quantum error-correcting codes, which has since grown into the incredibly vibrant field we know today.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+As a part of the YuQC speaker series, Prof. Ray Laflamme will join us this Thursday (April 8th) at 7pm for a fireside chat. This will be an incredibly unique opportunity for you to ask one of the biggest names in quantum anything you&amp;rsquo;d like!&lt;/p&gt;
 &lt;h3 id=&#34;prof-michel-devoret&#34;&gt;Prof. Michel Devoret&lt;/h3&gt;
 &lt;h4 id=&#34;error-correction-of-logical-quantum-bits&#34;&gt;Error correction of logical quantum bits&lt;/h4&gt;
 &lt;h4 id=&#34;march-26-630pm-730pm-et&#34;&gt;March 26, 6:30PM-7:30PM ET&lt;/h4&gt;
@@ -328,6 +340,11 @@ The accuracy of logical operations on quantum bits (qubits) must be improved for
 &lt;p&gt;&lt;em&gt;Prof. Liang Jiang joined the faculty of Yale University as an assistant professor in 2012, and later as an associate professor of Applied Physics. In 2019, Prof. Jiang moved to his current position as professor at the University of Chicago Pritzker School of Molecular Engineering. There, he theoretically investigates quantum systems and explores various quantum applications, such as quantum sensing, quantum transduction, quantum communication, and quantum computation.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 In this talk, Prof. Jiang will talk about the advances in quantum communication and various quantum applications.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/embed/ayfl6zJb_9I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h3 id=&#34;prof-steven-girvin-yale&#34;&gt;Prof. Steven Girvin, &lt;em&gt;Yale&lt;/em&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;the-second-quantum-revolution-and-the-race-to-build-impossible-computers&#34;&gt;The Second Quantum Revolution and the Race to Build ‘Impossible’ Computers&lt;/h4&gt;
 &lt;h4 id=&#34;february-9th-7pm-et&#34;&gt;February 9th, 7PM ET&lt;/h4&gt;
@@ -336,6 +353,11 @@ In this talk, Prof. Jiang will talk about the advances in quantum communication 
 The first quantum revolution brought us the great technological advances of the 20th century—the transistor, the laser, the atomic clock and GPS, the global positioning system.  A ‘second quantum revolution’ is now underway based on our relatively new understanding of how information can be stored, manipulated and communicated using strange quantum hardware that is neither fully digital nor fully analog.  We now realize that 20th century hardware does not take advantage of the full power of quantum machines.  This talk will give a gentle introduction to the basic concepts that underlie this quantum information revolution and describe recent remarkable experimental progress in the race to build quantum machines for computing, sensing and communication.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;
 No prior knowledge of quantum mechanics is required!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/embed/zdeSzzixdII&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
 </description>
         </item>
