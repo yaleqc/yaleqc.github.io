@@ -351,9 +351,15 @@ Please click here (yale.edu account required) to access zoom links, meeting pass
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/p/quantum-cryptography/</guid>
-      <description>Status  About We are going through an edX course titled &amp;ldquo;Quantum Cryptography&amp;rdquo; to gain knowledge and experience in the field. Once a sufficient amount of fundamental concepts is learned, we will start to implement quantum network protocols for the Quantum Protocol Zoo, an open repository founded by our very own Shraddha Singh.
-Project Lead: Yiğit Kılıçoğlu, Argyris Giannisis Manes
-Team: Sami Alves, Ines Chung-Halpern, Sofia Fausone, Francis Fedora, Allen Mi Ryan Bose-Roy, Will Sun, Barkotel Zemenu</description>
+      <description>About We are going through an edX course titled &amp;ldquo;Quantum Cryptography&amp;rdquo; to gain knowledge and experience in the field. Once a sufficient amount of fundamental concepts is learned, we will start to implement quantum network protocols for the Quantum Protocol Zoo, an open repository founded by our very own Shraddha Singh.
+Project Lead: Argyris Giannisis Manes,
+Yiğit Kılıçoğlu.
+Team: Sami Alves,
+Ryan Bose-Roy,
+Ines Chung-Halpern,
+Sofia Fausone,
+Francis Fedora,
+Argyris Giannisis Manes,</description>
     </item>
     
     <item>
@@ -362,7 +368,7 @@ Team: Sami Alves, Ines Chung-Halpern, Sofia Fausone, Francis Fedora, Allen Mi Ry
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/p/quantum-error-correction-study-group/</guid>
-      <description>About We are exploring quantum error correction. We will start with the quantum repition code, and move into more complicated examples of quantum error correction. Every week, one project member will prepare a short presentation addressing that week&amp;rsquo;s topic. Each topic will be accompanied by a short weekly project, which will be a textbook problem, a qiskit exercise, or a challenge based on the last week’s presentation. A full introduction and background on this project can be found on our project proposal.</description>
+      <description>About This project was started during the Spring semester of 2021, and the original project proposal can be found here. During this semester, a team of two members created a presentation on a topic related to quantum error correction each week. Going into the summmer, we will switch to a reading group format. Each week we wil have a reading addressing an aspect of quantum error correction. With the help of our graduate student mentor Alec, we will break down challenging topics, with the goal of gaining familiarity with the language and concepts of the field.</description>
     </item>
     
     <item>

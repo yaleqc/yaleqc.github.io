@@ -13,9 +13,15 @@
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/p/quantum-cryptography/</guid>
-      <description>Status  About We are going through an edX course titled &amp;ldquo;Quantum Cryptography&amp;rdquo; to gain knowledge and experience in the field. Once a sufficient amount of fundamental concepts is learned, we will start to implement quantum network protocols for the Quantum Protocol Zoo, an open repository founded by our very own Shraddha Singh.
-Project Lead: Yiğit Kılıçoğlu, Argyris Giannisis Manes
-Team: Sami Alves, Ines Chung-Halpern, Sofia Fausone, Francis Fedora, Allen Mi Ryan Bose-Roy, Will Sun, Barkotel Zemenu</description>
+      <description>About We are going through an edX course titled &amp;ldquo;Quantum Cryptography&amp;rdquo; to gain knowledge and experience in the field. Once a sufficient amount of fundamental concepts is learned, we will start to implement quantum network protocols for the Quantum Protocol Zoo, an open repository founded by our very own Shraddha Singh.
+Project Lead: Argyris Giannisis Manes,
+Yiğit Kılıçoğlu.
+Team: Sami Alves,
+Ryan Bose-Roy,
+Ines Chung-Halpern,
+Sofia Fausone,
+Francis Fedora,
+Argyris Giannisis Manes,</description>
     </item>
     
   </channel>

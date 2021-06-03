@@ -430,36 +430,49 @@ No prior knowledge of quantum mechanics is required!&lt;/p&gt;
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
         
         <guid>https://yaleqc.com/p/quantum-cryptography/</guid>
-        <description>&lt;img src="https://yaleqc.com/p/quantum-cryptography/quantum_cryptography_image.jpeg" alt="Featured image of post Quantum Cryptography" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+        <description>&lt;img src="https://yaleqc.com/p/quantum-cryptography/quantum_cryptography_image.jpeg" alt="Featured image of post Quantum Cryptography" /&gt;&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;We are going through an edX course titled &lt;a class=&#34;link&#34; href=&#34;https://learning.edx.org/course/course-v1:CaltechDelftX&amp;#43;QuCryptox&amp;#43;3T2018/home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&amp;ldquo;Quantum Cryptography&amp;rdquo;&lt;/a&gt; to gain knowledge and experience in the field. Once a sufficient amount of fundamental concepts is learned, we will start to implement quantum network protocols for the &lt;a class=&#34;link&#34; href=&#34;https://wiki.veriqloud.fr/index.php?title=Main_Page&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Quantum Protocol Zoo&lt;/a&gt;, an open repository founded by our very own Shraddha Singh.&lt;/p&gt;
 &lt;h3 id=&#34;project-lead&#34;&gt;Project Lead:&lt;/h3&gt;
-&lt;p&gt;Yiğit Kılıçoğlu,
-Argyris Giannisis Manes&lt;/p&gt;
+&lt;p&gt;Argyris Giannisis Manes,&lt;br&gt;
+Yiğit Kılıçoğlu.&lt;/p&gt;
 &lt;h3 id=&#34;team&#34;&gt;Team:&lt;/h3&gt;
-&lt;p&gt;Sami Alves,
-Ines Chung-Halpern,
-Sofia Fausone,
-Francis Fedora,
-Allen Mi
-Ryan Bose-Roy,
-Will Sun,
-Barkotel Zemenu&lt;/p&gt;
+&lt;p&gt;Sami Alves,&lt;br&gt;
+Ryan Bose-Roy,&lt;br&gt;
+Ines Chung-Halpern,&lt;br&gt;
+Sofia Fausone,&lt;br&gt;
+Francis Fedora,&lt;br&gt;
+Argyris Giannisis Manes,&lt;br&gt;
+Yiğit Kılıçoğlu,&lt;br&gt;
+Allen Mi,&lt;br&gt;
+Will Sun,&lt;br&gt;
+Leonardo Zapparoli,&lt;br&gt;
+Barkotel Zemenu.&lt;/p&gt;
 &lt;h3 id=&#34;mentor&#34;&gt;Mentor:&lt;/h3&gt;
-&lt;p&gt;Shraddha Singh&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://physics.yale.edu/people/shraddha-singh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Shraddha Singh&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;check-out-our-work&#34;&gt;Check out our work!&lt;/h1&gt;
-&lt;p&gt;Here is a link to our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1XOPRelKBYnTYFPAre-nfVp2gVnA_q2P_UQVU5vztB6w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;project proposal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1XOPRelKBYnTYFPAre-nfVp2gVnA_q2P_UQVU5vztB6w/edit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Project proposal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Recordings of lectures that Shraddha gave during our meetings (access restricted to Yale accounts):&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1E6pN4gqC3mNts0kX2iz0Bgv3FaTatP6F/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Digital Signatures&lt;/a&gt;&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/1g0lnx3kun1mPh8A4WICt-QpQO4czyGnq/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Money&lt;/a&gt;&lt;br&gt;
+Quantum Key Distribution (Coming soon)&lt;/p&gt;
 &lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-&lt;p&gt;Yiğit Kılıçoğlu, email: &lt;a href=&#34;mailto:yigit.kilicoglu@yale.edu&#34;&gt;yigit.kilicoglu@yale.edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Argyris Giannisis Manes, email: &lt;a href=&#34;mailto:argyris.giannisismanes@yale.edu&#34;&gt;argyris.giannisismanes@yale.edu&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;Yiğit Kılıçoğlu, email: &lt;a href=&#34;mailto:yigit.kilicoglu@yale.edu&#34;&gt;yigit.kilicoglu@yale.edu&lt;/a&gt;&lt;br&gt;
+Argyris Giannisis Manes, email: &lt;a href=&#34;mailto:argyris.giannisismanes@yale.edu&#34;&gt;argyris.giannisismanes@yale.edu&lt;/a&gt;,&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up using &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSensJvl0WIrNsZOUKkK3t67OOa5gixF-ddUrVhqHGoMMWIXIw/viewform&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;this&lt;/a&gt; form or contact Yiğit or Argy.&lt;/p&gt;
+&lt;h1 id=&#34;summer-2021-update&#34;&gt;Summer 2021 Update&lt;/h1&gt;
+&lt;p&gt;Goals for summer 2021:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete the edX course&lt;/li&gt;
+&lt;li&gt;Update the Julia notebooks of the edX course from Julia v0.6.2 to Julia v1.6.1 (contact Yiğit if interested)&lt;/li&gt;
+&lt;li&gt;Contribute to the Quantum Protocol Zoo&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -469,22 +482,36 @@ Barkotel Zemenu&lt;/p&gt;
         
         <guid>https://yaleqc.com/p/quantum-error-correction-study-group/</guid>
         <description>&lt;img src="https://yaleqc.com/p/quantum-error-correction-study-group/loops.png" alt="Featured image of post Quantum Error Correction Study Group" /&gt;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-&lt;p&gt;We are exploring quantum error correction. We will start with the quantum repition code, and move into more complicated examples of quantum error correction. Every week, one project member will prepare a short presentation addressing that week&amp;rsquo;s topic. Each topic will be accompanied by a short weekly project, which will be a textbook problem, a qiskit exercise, or a challenge based on the last week’s presentation. A full introduction and background on this project can be found on our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Meetings will take place Saturdays at 1pm ET at &lt;a class=&#34;link&#34; href=&#34;https://yale.zoom.us/j/7934646471&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;this Zoom link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This project was started during the Spring semester of 2021, and the original project proposal can be found &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;. During this semester, a team of two members created a presentation on a topic related to quantum error correction each week. Going into the summmer, we will switch to a reading group format. Each week we wil have a reading addressing an aspect of quantum error correction. With the help of our graduate student mentor Alec, we will break down challenging topics, with the goal of gaining familiarity with the language and concepts of the field. The presentation slides are linked below, and the reading material will be posted going forward.&lt;/p&gt;
+&lt;p&gt;Meetings during the summer will take place weekly, currently planned for Wednesdays but potentially subject to change.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;p&gt;This project was originally proposed by faculty sponsor &lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dr. Steven Girvin&lt;/a&gt; and is lead by member &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Ben McDonough&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Team is currently open! Come to interest meeting taking place &lt;em&gt;Saturday, March 27th, 1pm ET&lt;/em&gt; at &lt;a class=&#34;link&#34; href=&#34;https://yale.zoom.us/j/7934646471&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;this Zoom link&lt;/a&gt;&lt;/p&gt;
+    &gt;Dr. Steven Girvin&lt;/a&gt; and is lead by YuQC members &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ben McDonough&lt;/a&gt; and Alex Deters.&lt;/p&gt;
+&lt;p&gt;Alec Eikbusch has generously offered his guidance and support as our graduate student mentor.&lt;/p&gt;
+&lt;p&gt;We are currently looking to expand the group during the summer! Email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;mailto:alex.deters@yale.edu&#34; &gt;alex.deters@yale.edu&lt;/a&gt; if you would like to join.&lt;/p&gt;
 &lt;h2 id=&#34;mentor&#34;&gt;Mentor&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dr. Steven Girvin&lt;/a&gt; is our project mentor, and has generously offered his knowledge and support. Professor Girvin’s academic research is currently focused on ‘circuit QED,’ the quantum physics of microwave electrical circuits using superconducting Josephson junctions as artificial atoms.  Check out his video &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/uD69GCYF9Zg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dr. Steven Girvin&lt;/a&gt; is our project mentor. Professor Girvin’s academic research is currently focused on ‘circuit QED,’ the quantum physics of microwave electrical circuits using superconducting Josephson junctions as artificial atoms.  Check out his video &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/uD69GCYF9Zg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&amp;ldquo;Introduction to Quantum Error Correction&amp;rdquo;&lt;/a&gt; for an acessible yet precise introduction to circuit QED and the problem of quantum error correction.&lt;/p&gt;
+&lt;h2 id=&#34;previous-material&#34;&gt;Previous Material&lt;/h2&gt;
+&lt;h3 id=&#34;presentations-from-the-semester&#34;&gt;Presentations from the semester&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1VHTH5YDQyAeAu2mMOBcsgwmeCCKEFChQVATwQJgtF00/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Classical Error Correction and the Quantum Repetition Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1qXkiRhS4M1R5sgTz40D00qXe25S_F582TkThPM4UMWA/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The 9-Qubit Shor Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/file/d/15Na9bnl71IZJ8GKSw6ptp568hdIIuv5-/view?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&amp;ldquo;An Introduction to Quantum Error Correction&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1j5PTih7PWTJMQ-V7kig4ezdM8kRZyiJg7vc8NFnMdQg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The Toric Code: Introduction to Topological QEC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;readings&#34;&gt;Readings&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/pdf/0904.2557.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation, Daniel Gottesman&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;If you&amp;rsquo;re interested and want to become a part of this project, drop by one of our meetings! If you would like to be added to the project discord, fill out the project sign-up form on the &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;YuQC project ideas page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to be added to the project discord, fill out the project sign-up form on the &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;YuQC project ideas page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
