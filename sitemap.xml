@@ -223,12 +223,22 @@
   </url>
   
   <url>
+    <loc>https://yaleqc.com/categories/concluded/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yaleqc.com/tags/cryptography/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yaleqc.com/categories/projects/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaleqc.com/tags/qec/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   

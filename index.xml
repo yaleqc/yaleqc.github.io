@@ -482,19 +482,11 @@ Argyris Giannisis Manes, email: &lt;a href=&#34;mailto:argyris.giannisismanes@ya
         
         <guid>https://yaleqc.com/p/quantum-error-correction-study-group/</guid>
         <description>&lt;img src="https://yaleqc.com/p/quantum-error-correction-study-group/loops.png" alt="Featured image of post Quantum Error Correction Study Group" /&gt;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-&lt;p&gt;This project was started during the Spring semester of 2021, and the original project proposal can be found &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;. During this semester, a team of two members created a presentation on a topic related to quantum error correction each week. Going into the summmer, we will switch to a reading group format. Each week we wil have a reading addressing an aspect of quantum error correction. With the help of our graduate student mentor Alec, we will break down challenging topics, with the goal of gaining familiarity with the language and concepts of the field. The presentation slides are linked below, and the reading material will be posted going forward.&lt;/p&gt;
-&lt;p&gt;Meetings during the summer will take place weekly, currently planned for Wednesdays but potentially subject to change.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We concluded the study group with our last meeting on 8/17/2021! We are looking forward to the next academic year, and look for a future iteration at the next YuQC meeting!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a study group that was started during the spring semester of 2021, and met weekly through August of the following summer. We would like to thank our graduate mentor &lt;strong&gt;Alec Eikbusch&lt;/strong&gt; for his tremendous support of this group, fielding our questions in-person and over discord, and setting up meetings with postdocs and other graduate students who are actively working in this field. We met with Shraddha Singh to discuss Austin Fowler&amp;rsquo;s review of the surface code, we joined Valla Fatemi at YQI for our only in-person meeting of the summer to discuss topological quantum computing with anyons, and we met with Nicholas Frattini to discuss his work on stabilizing and operating Kerr-cat qubits. During the semester, two members volunteered every week to make a presentation on a different topic related to quantum error correction and explain it to the group. These presentations are posted below. During the summer, we switched to a reading group format, discussing a different paper every week. We began by discussing the theoretical underpinnings of QEC in the first four weeks, diving into Terhal&amp;rsquo;s QEC review and Preskill&amp;rsquo;s notes from his course at Caltech. We moved then to discussing the surface code and schema for topological quantum computing in detail. During the last three weeks, we explored experiments in QEC and became more familiar with the active work within the field. If you are interested in any of these topics and would like to learn more, the readings are posted below.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
-&lt;p&gt;This project was originally proposed by faculty sponsor &lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dr. Steven Girvin&lt;/a&gt; and is lead by YuQC members &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Ben McDonough&lt;/a&gt; and Alex Deters.&lt;/p&gt;
-&lt;p&gt;Alec Eikbusch has generously offered his guidance and support as our graduate student mentor.&lt;/p&gt;
-&lt;p&gt;We are currently looking to expand the group during the summer! Email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;mailto:alex.deters@yale.edu&#34; &gt;alex.deters@yale.edu&lt;/a&gt; if you would like to join.&lt;/p&gt;
-&lt;h2 id=&#34;mentor&#34;&gt;Mentor&lt;/h2&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://girvin.sites.yale.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dr. Steven Girvin&lt;/a&gt; is our project mentor. Professor Girvin’s academic research is currently focused on ‘circuit QED,’ the quantum physics of microwave electrical circuits using superconducting Josephson junctions as artificial atoms.  Check out his video &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/uD69GCYF9Zg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&amp;ldquo;Introduction to Quantum Error Correction&amp;rdquo;&lt;/a&gt; for an acessible yet precise introduction to circuit QED and the problem of quantum error correction.&lt;/p&gt;
+&lt;p&gt;This project was lead by &lt;a class=&#34;link&#34; href=&#34;https://yaleqc.com/members/ben-mcdonough&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ben McDonough&lt;/a&gt;, &amp;lsquo;24 and Alex Deters, &amp;lsquo;24. Alec Eikbusch was our fearless mentor, and this group would not have been possible without him. We would also like to thank our members Wyatt Kremer, Joshua Wang, Ayelet Kalfus, and Jean Wang for carving out every Tuesday morning of their summers for our meetings, and especially Joshua and Wyatt, who attended the 9:00am meetings even though they were in pacific time.&lt;/p&gt;
 &lt;h2 id=&#34;previous-material&#34;&gt;Previous Material&lt;/h2&gt;
 &lt;h3 id=&#34;presentations-from-the-semester&#34;&gt;Presentations from the semester&lt;/h3&gt;
 &lt;ul&gt;
@@ -507,11 +499,37 @@ Argyris Giannisis Manes, email: &lt;a href=&#34;mailto:argyris.giannisismanes@ya
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/presentation/d/1j5PTih7PWTJMQ-V7kig4ezdM8kRZyiJg7vc8NFnMdQg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The Toric Code: Introduction to Topological QEC&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;readings&#34;&gt;Readings&lt;/h3&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/pdf/0904.2557.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation, Daniel Gottesman&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;If you would like to be added to the project discord, fill out the project sign-up form on the &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;YuQC project ideas page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:ben.mcdonough@yale.edu&#34; &gt;ben.mcdonough@yale.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;readings-from-the-summer&#34;&gt;Readings from the summer&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/pdf/0904.2557.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;An Introduction to Quantum Error Correction and Fault-Tolerant Quantum Computation, Daniel Gottesman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/pdf/1302.3428.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Error Correction for Quantum Memories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/abs/1208.0928&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Surface codes: Towards practical large-scale quantum computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://scipost.org/SciPostPhys.3.3.021/pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;A short introduction to topological quantum computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nature.com/articles/s41586-021-03588-y.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Exponential supression of bit or phase errors with cyclic error correction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/abs/2104.01180&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Realizing topologically ordered states on a quantum processor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nature.com/articles/s41586-020-2587-z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stabilization and operation of a Kerr-cat qubit&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;###Other materials&lt;/p&gt;
+&lt;p&gt;The original project proposal can be found &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1Vs8VDOwgy_SUFIFMbOkvLE9lYfH8zRVJJYjsSXQ2FGw/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The new project proposal can be found &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1XOJO0UeqM9o2oJCDdWUeBUpc2z5cSlhgto1t7CAJWnE/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In addition, here are documents containing questions from the meetings with guest experts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1xX7ItCzBjone3neP8snIMQMtAHj1e_cmnjuesvOcVDg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Surface code questions for Shraddha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1jF6Jj-Tb-Zr_uCpK1DHBFru1nbtTcIGQYRImKhmrav0/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Anyon questions for Valla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1jF6Jj-Tb-Zr_uCpK1DHBFru1nbtTcIGQYRImKhmrav0/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Kerr-cat questions for Nick (+ his answers)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
