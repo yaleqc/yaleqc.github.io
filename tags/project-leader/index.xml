@@ -6,16 +6,7 @@
     <description>Recent content in project-leader on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/project-leader/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shantanu Jha (President 2020-21, Founder)</title>
-      <link>https://yaleqc.com/members/shantanu-jha/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/shantanu-jha/</guid>
-      <description>President (2020-21) Physics and Mathematics, Class of 2021 LinkedIn, Github, Email Shantanu ’21 is a Math and Physics major and a member of Saybrook College. He founded YuQC to provide a support network to help younger or otherwise newcomer students explore the often daunting but wonderfully interdisciplinary field of quantum information science. His research spans quantum information theory work with Steven Girvin, terahertz wireless communications (6G) with Federico Capasso, and most recently, experimental quantum computation with Michel Devoret.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/project-leader/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Ding (Board 2020-21)</title>
       <link>https://yaleqc.com/members/andy-ding/</link>
@@ -71,6 +62,15 @@
     </item>
     
     <item>
+      <title>Ben McDonough (Project Leader 20-21)</title>
+      <link>https://yaleqc.com/members/ben-mcdonough/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/members/ben-mcdonough/</guid>
+      <description>Physics, Class of 2024 Github Ben is a sophomore in the class of 2024. Ben is a physics major but loves math and computer science as well, and he feels drawn to the interdisciplinary nature of the quantum community. He believes that studying quantum information is a method for investigating fundamental properties of nature. He conducted research under Professor Girvin during the summer of ‘21 into quantum error correction, and he would love to talk to you about it.</description>
+    </item>
+    
+    <item>
       <title>Argyrios Giannisis Manes (Project Leader 20-21)</title>
       <link>https://yaleqc.com/members/argyrios-giannisis-manes/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
@@ -86,15 +86,6 @@
       
       <guid>https://yaleqc.com/members/ben-foxman/</guid>
       <description>Mathematics and Computer Science, Class of 2023 LinkedIn, Github I&amp;rsquo;m a sophomore in Pauli Murray College, double majoring in computer science and math. Quantum Computation interests me because of how many applications would be unlocked when the physical limitations of classical computers. I&amp;rsquo;m especially curious about the vast improvements that could be made to artificial intelligence, and what would be possible for Quantum Computers to &amp;ldquo;learn&amp;rdquo; in the future.</description>
-    </item>
-    
-    <item>
-      <title>Ben McDonough (Project Leader 20-21)</title>
-      <link>https://yaleqc.com/members/ben-mcdonough/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/ben-mcdonough/</guid>
-      <description>Physics, Class of 2024 Github Ben loves physics and wants to find a way to join his passions for mathematics, computer science, and theoretical physics. His favorite aspect of Yale is the emphasis on peer support and community bonds, which he feels the interdisciplinary study of quantum information and quantum computing strongly exemplifies. He loves the &amp;lsquo;spooky action at a distance&amp;rsquo; counter-intuitive weirdness of the quantum world, and is excited to be studying physics at Yale.</description>
     </item>
     
     <item>
