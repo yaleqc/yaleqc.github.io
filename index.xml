@@ -356,7 +356,7 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;IBM’s Q System One — still an experimental device, despite its polished looks. Credit: IBM.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IBM’s Q System One — still an experimental device, despite its polished looks. Credit: IBM. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -382,6 +382,94 @@
 &lt;p&gt;How to Join the Quantum Workforce? – Prepare for Industry - Friday, December 10, 2021 - 4:00pm
 &lt;a class=&#34;link&#34; href=&#34;https://quantuminstitute.yale.edu/event/how-join-quantum-workforce-prepare-industry&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://quantuminstitute.yale.edu/event/how-join-quantum-workforce-prepare-industry&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Recap 2020-21</title>
+        <link>https://yaleqc.com/p/recap-2020-21/</link>
+        <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://yaleqc.com/p/recap-2020-21/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/recap-2020-21/background.png" alt="Featured image of post Recap 2020-21" /&gt;&lt;h1 id=&#34;tldr&#34;&gt;tl;dr&lt;/h1&gt;
+&lt;p&gt;30+ active &lt;a class=&#34;link&#34; href=&#34;../../categories/members/&#34; &gt;members&lt;/a&gt; across disciplines&lt;br&gt;
+Open Source &lt;a class=&#34;link&#34; href=&#34;../../categories/projects/&#34; &gt;Projects&lt;/a&gt; and Study Groups&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.quantumcoalition.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Coalition&lt;/a&gt; (Hack) &amp;amp; Partnerships &amp;amp; Outreach&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;../speaker-series-spring-2021/&#34; &gt;YuQC Invited Speaker Series&lt;/a&gt;&lt;br&gt;
+Social Hours&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;../../categories/resources/&#34; &gt;Resources&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Yale undergrad Quantum Computing was founded in October of 2020 and, in our first year, we&amp;rsquo;ve done quite a lot. Let&amp;rsquo;s take a look back at our productive year!&lt;/p&gt;
+&lt;h2 id=&#34;members&#34;&gt;Members&lt;/h2&gt;
+&lt;p&gt;As shown through data collected at our &lt;a class=&#34;link&#34; href=&#34;../fall-2020-interest-meeting/&#34; &gt;interest meeting&lt;/a&gt;, YuQC brought together students from across disciplines, school years, and experience levels. This diversity was fundamental to our success.&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;img src=&#34;members.png&#34; alt=&#34;interest meeting stats&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;p&gt;To become a member of YuQC, a student would have to commit to at least one initiative. Many of these initiatives took the form of study groups and open-source projects, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../qtcodes&#34; &gt;qtcodes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../quantum-programming-api/&#34; &gt;quantum programming API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../quantum-cryptography/&#34; &gt;quantum cryptography study group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../quantum-error-correction-study-group/&#34; &gt;quantum error correction study group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;quantum-coalition--partnerships--outreach&#34;&gt;Quantum Coalition &amp;amp; Partnerships &amp;amp; Outreach&lt;/h2&gt;
+&lt;p&gt;YuQC partnered with the Stanford QCA to organize the &lt;a class=&#34;link&#34; href=&#34;https://www.quantumcoalition.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Coalition&lt;/a&gt; Hackathon, sponsored by IBM, Q-CTRL, Google, Microsoft, IonQ, qBraid, Xanadu, QFarm, YQI, and StrangeWorks.&lt;/p&gt;
+&lt;p&gt;This student-planned hackathon saw &lt;strong&gt;1.4K&lt;/strong&gt; participants from &lt;strong&gt;80&lt;/strong&gt; countries, &lt;strong&gt;200&lt;/strong&gt; project submissions, and &lt;strong&gt;22&lt;/strong&gt; hours of workshops. Moreover, this event kickstarted the Quantum Coalition, a platform for collaboration between quantum computing clubs from across the world.&lt;/p&gt;
+&lt;p&gt;Beyond the Quantum Coalition, we also collaborated with several Yale clubs, including events with Yale Society of Physics Students and Yale Women in Physics, and high school outreach with &lt;a class=&#34;link&#34; href=&#34;http://techy.yhack.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TECHY&lt;/a&gt; from YHACK.&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;img src=&#34;partnerships.png&#34; alt=&#34;partnerships&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&#34;speaker-series&#34;&gt;Speaker Series&lt;/h2&gt;
+&lt;p&gt;Consistent with our mission to make Quantum Computing accessible to undergraduates, we created an undergrad-accessible speaker series featuring talks (found &lt;a class=&#34;link&#34; href=&#34;../speaker-series-spring-2021/&#34; &gt;here&lt;/a&gt;) by Prof. Steven Girvin, Prof. Liang Jiang, members of YuQC, Prof. Michel Devoret, Prof. Raymond Laflamme, and Dr. Zlatko Minev.&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;img src=&#34;speakers.png&#34; alt=&#34;speakers&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&#34;social-hours&#34;&gt;Social Hours&lt;/h2&gt;
+&lt;p&gt;A large part of building the YuQC community was done during our social hours, which alternated with biweekly club meetings and explored everything from experimental quantum computing lab tours to quantum chess.&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;img src=&#34;social_hours.png&#34; alt=&#34;social hours&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Throughout the year, we compiled a &lt;a class=&#34;link&#34; href=&#34;../yuqc-resources-and-knowledge-database/&#34; &gt;database&lt;/a&gt; of resources and maintained a weekly updated opportunities &lt;a class=&#34;link&#34; href=&#34;../opportunities-bulletin/&#34; &gt;bulletin&lt;/a&gt;, among other resources found &lt;a class=&#34;link&#34; href=&#34;../../categories/resources/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;board--project-leaders--mentors&#34;&gt;Board | Project Leaders | Mentors&lt;/h2&gt;
+&lt;p&gt;None of this, however, could have been done without our talented and committed board, project leaders, mentors, and membership.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Huge thank you to you all!&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;p align=center&gt; &lt;b&gt;2020-21 Board&lt;/b&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;board.png&#34; alt=&#34;board&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
+
+
+&lt;p align=center&gt; &lt;b&gt;2020-21 Project Leaders&lt;/b&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;project_leaders.png&#34; alt=&#34;project leaders&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
+
+
+&lt;p align=center&gt; &lt;b&gt;2020-21 Mentors&lt;/b&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;mentors.png&#34; alt=&#34;mentors&#34; width=&#34;70%&#34;/&gt;
+&lt;/center&gt;
+
 </description>
         </item>
         <item>
@@ -484,8 +572,8 @@ Barkotel Zemenu.&lt;/p&gt;
     &gt;Quantum Money&lt;/a&gt;&lt;br&gt;
 Quantum Key Distribution (Coming soon)&lt;/p&gt;
 &lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-&lt;p&gt;Yiğit Kılıçoğlu, email: &lt;a class=&#34;link&#34; href=&#34;mailto:yigit.kilicoglu@yale.edu&#34; &gt;yigit.kilicoglu@yale.edu&lt;/a&gt;&lt;br&gt;
-Argyris Giannisis Manes, email: &lt;a class=&#34;link&#34; href=&#34;mailto:argyris.giannisismanes@yale.edu&#34; &gt;argyris.giannisismanes@yale.edu&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;Yiğit Kılıçoğlu, email: &lt;a href=&#34;mailto:yigit.kilicoglu@yale.edu&#34;&gt;yigit.kilicoglu@yale.edu&lt;/a&gt;&lt;br&gt;
+Argyris Giannisis Manes, email: &lt;a href=&#34;mailto:argyris.giannisismanes@yale.edu&#34;&gt;argyris.giannisismanes@yale.edu&lt;/a&gt;,&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up using &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSensJvl0WIrNsZOUKkK3t67OOa5gixF-ddUrVhqHGoMMWIXIw/viewform&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;this&lt;/a&gt; form or contact Yiğit or Argy.&lt;/p&gt;
 &lt;h1 id=&#34;summer-2021-update&#34;&gt;Summer 2021 Update&lt;/h1&gt;
@@ -593,7 +681,7 @@ we aim to actually build the legos, so that you and the rest of the community ca
 &lt;p&gt;Here is a link to our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/1eOcaMyNOiwEFjON7IBg4l1LsJBzK0XfvzwivIVhjwbg/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-&lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up on this &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;page&lt;/a&gt; or email &lt;a class=&#34;link&#34; href=&#34;mailto:seun.omonije@yale.edu&#34; &gt;seun.omonije@yale.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in joining this project, please either sign up on this &lt;a class=&#34;link&#34; href=&#34;../project-ideas/&#34; &gt;page&lt;/a&gt; or email &lt;a href=&#34;mailto:seun.omonije@yale.edu&#34;&gt;seun.omonije@yale.edu&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -635,7 +723,7 @@ we aim to actually build the legos, so that you and the rest of the community ca
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Energy efficient: Google’s Sycamore quantum processor. (Courtesy: Erik Lucero/Google)&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Energy efficient: Google’s Sycamore quantum processor. (Courtesy: Erik Lucero/Google) &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -882,18 +970,19 @@ we aim to actually build the legos, so that you and the rest of the community ca
 </description>
         </item>
         <item>
-        <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
-        <link>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
+        <title>qtcodes</title>
+        <link>https://yaleqc.com/p/qtcodes/</link>
         <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-        <description>&lt;img src="https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/background.jpg" alt="Featured image of post Qiskit Surface Code Encoder and MWPM Decoder" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
-&lt;p&gt;This open-source package was presented at the &lt;strong&gt;November 2020 Qiskit Advocate Demo Session&lt;/strong&gt; and is pending official incorporating into Qiskit Ignis. Our ultimate goal is to create general Topological Code interfaces, with sepecific implementations using the CSS (XXXX/ZZZZ) surface code, XZZX surface code, and repetition code,&lt;/p&gt;
+        <guid>https://yaleqc.com/p/qtcodes/</guid>
+        <description>&lt;img src="https://yaleqc.com/p/qtcodes/background.jpg" alt="Featured image of post qtcodes" /&gt;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pypi.org/project/qtcodes/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;code&gt;qtcodes&lt;/code&gt;&lt;/a&gt; is published on PyPI with tooling to encode, decode and benchmark XXXX/ZZZZ surface code, XZZX surface code, and repetition code!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.&lt;/p&gt;
-&lt;p&gt;Here is the Github repo: &lt;a class=&#34;link&#34; href=&#34;https://github.com/Phionx/qiskit_surface_codes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/Phionx/qiskit_surface_codes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is the Github repo: &lt;a class=&#34;link&#34; href=&#34;https://github.com/yaleqc/qtcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yaleqc/qtcodes&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Here is a link to our &lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/document/d/11atGyV14IOtWjEofLv9qRoqLacc_4Kps6jkuMympoRs/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;project proposal&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;

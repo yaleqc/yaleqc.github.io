@@ -26,18 +26,9 @@
     </item>
     
     <item>
-      <title>concluded</title>
-      <link>https://yaleqc.com/categories/concluded/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/categories/concluded/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://yaleqc.com/categories/projects/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/categories/projects/</guid>
       <description></description>
@@ -46,9 +37,18 @@
     <item>
       <title>Resources</title>
       <link>https://yaleqc.com/categories/resources/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yaleqc.com/categories/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concluded</title>
+      <link>https://yaleqc.com/categories/concluded/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/categories/concluded/</guid>
       <description></description>
     </item>
     

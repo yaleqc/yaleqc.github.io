@@ -127,7 +127,7 @@ Week of Apr 18, 2021   IBM Quantum Community Partnerships Intern role
     </item>
     
     <item>
-      <title>Katerina Kargioti (Board 2021-22)</title>
+      <title>Katerina Kargioti</title>
       <link>https://yaleqc.com/members/katerina-kargioti/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
@@ -339,6 +339,22 @@ How to Join the Quantum Workforce? – Prepare for Industry - Friday, December 1
     </item>
     
     <item>
+      <title>Recap 2020-21</title>
+      <link>https://yaleqc.com/p/recap-2020-21/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/recap-2020-21/</guid>
+      <description>tl;dr 30+ active members across disciplines
+Open Source Projects and Study Groups
+Quantum Coalition (Hack) &amp;amp; Partnerships &amp;amp; Outreach
+YuQC Invited Speaker Series
+Social Hours
+Resources
+ Yale undergrad Quantum Computing was founded in October of 2020 and, in our first year, we&amp;rsquo;ve done quite a lot. Let&amp;rsquo;s take a look back at our productive year!
+Members As shown through data collected at our interest meeting, YuQC brought together students from across disciplines, school years, and experience levels.</description>
+    </item>
+    
+    <item>
       <title>Speaker Series (Spring 2021)</title>
       <link>https://yaleqc.com/p/speaker-series-spring-2021/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
@@ -493,13 +509,16 @@ Past events:
     </item>
     
     <item>
-      <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
-      <link>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
+      <title>qtcodes</title>
+      <link>https://yaleqc.com/p/qtcodes/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-      <description>Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our ultimate goal is to create general Topological Code interfaces, with sepecific implementations using the CSS (XXXX/ZZZZ) surface code, XZZX surface code, and repetition code,
- About We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.</description>
+      <guid>https://yaleqc.com/p/qtcodes/</guid>
+      <description>Status qtcodes is published on PyPI with tooling to encode, decode and benchmark XXXX/ZZZZ surface code, XZZX surface code, and repetition code!
+ About We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.
+Here is the Github repo: https://github.com/yaleqc/qtcodes
+Here is a link to our project proposal.
+Team The first iteration of this project was created by members Shantanu Jha &amp;lsquo;21, Henry Liu &amp;lsquo;21, Will Sun &amp;lsquo;22, Shraddha Singh (Grad), and Andy Ding (Grad).</description>
     </item>
     
     <item>

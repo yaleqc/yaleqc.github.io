@@ -32,13 +32,16 @@ Past events:
     </item>
     
     <item>
-      <title>Qiskit Surface Code Encoder and MWPM Decoder</title>
-      <link>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</link>
+      <title>qtcodes</title>
+      <link>https://yaleqc.com/p/qtcodes/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/p/qiskit-surface-code-encoder-and-mwpm-decoder/</guid>
-      <description>Status This open-source package was presented at the November 2020 Qiskit Advocate Demo Session and is pending official incorporating into Qiskit Ignis. Our ultimate goal is to create general Topological Code interfaces, with sepecific implementations using the CSS (XXXX/ZZZZ) surface code, XZZX surface code, and repetition code,
- About We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.</description>
+      <guid>https://yaleqc.com/p/qtcodes/</guid>
+      <description>Status qtcodes is published on PyPI with tooling to encode, decode and benchmark XXXX/ZZZZ surface code, XZZX surface code, and repetition code!
+ About We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.
+Here is the Github repo: https://github.com/yaleqc/qtcodes
+Here is a link to our project proposal.
+Team The first iteration of this project was created by members Shantanu Jha &amp;lsquo;21, Henry Liu &amp;lsquo;21, Will Sun &amp;lsquo;22, Shraddha Singh (Grad), and Andy Ding (Grad).</description>
     </item>
     
   </channel>
