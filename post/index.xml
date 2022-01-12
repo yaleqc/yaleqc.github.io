@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Ding (Board 2020-21)</title>
       <link>https://yaleqc.com/members/andy-ding/</link>
@@ -127,7 +127,7 @@ Week of Apr 18, 2021   IBM Quantum Community Partnerships Intern role
     </item>
     
     <item>
-      <title>Katerina Kargioti</title>
+      <title>Katerina Kargioti (Board 2021-22)</title>
       <link>https://yaleqc.com/members/katerina-kargioti/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
@@ -322,6 +322,15 @@ Week of Apr 18, 2021   IBM Quantum Community Partnerships Intern role
       
       <guid>https://yaleqc.com/members/will-doyle/</guid>
       <description>Electrical Engineering, Class of 2022 LinkedIn, Github Will took physics 260-261 with Professor Girvin and thought that quantum computing sounds really interesting!</description>
+    </item>
+    
+    <item>
+      <title>Quantum Computing Summer School 2022</title>
+      <link>https://yaleqc.com/p/quantum-computing-summer-school-2022/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yaleqc.com/p/quantum-computing-summer-school-2022/</guid>
+      <description>Information The 5th edition of the Quantum Computing Summer School at Los Alamos National Laboratory (LANL) is happening this summer. The Quantum Computing Summer School is an immersive 10-week curriculum that includes tutorials from world-leading experts in quantum computation as well as one-on-one mentoring from LANL staff scientists who are conducting cutting-edge quantum computing research. Summer school fellowship recipients will be exposed to the theoretical foundations of quantum computation and will become skilled at programming commercial quantum computers, such as those developed by D-Wave Systems, Rigetti, and IBM.</description>
     </item>
     
     <item>
