@@ -6,95 +6,23 @@
     <description>Recent content in project-leader on Yale Undergraduate Quantum Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/project-leader/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yaleqc.com/tags/project-leader/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Andy Ding (Board 2020-21)</title>
-      <link>https://yaleqc.com/members/andy-ding/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Jeffrey Gong (Project Leader 2021-22: IBM Qiskit Study Group</title>
+      <link>https://yaleqc.com/members/jeffrey-gong/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/members/andy-ding/</guid>
-      <description>Physics, Ph.D. Student LinkedIn, Github </description>
+      <guid>https://yaleqc.com/members/jeffrey-gong/</guid>
+      <description>Jeffrey is a Freshman in Saybrook College prospectively majoring in Computer Science and Mathematics, and possibly also Applied Physics. This year, he is the project leader for the IBM Qiskit study group and is doing research on magic state distillation with Professor Yongshan Ding in the Quantum Computer Systems group. Outside of quantum, Jeffrey loves to pretend like he&amp;rsquo;s an amateur film critic, DJ for his friends, and longboard down scary hills.</description>
     </item>
     
     <item>
-      <title>Ayelet Kalfus (Board 2020-21)</title>
-      <link>https://yaleqc.com/members/ayelet-kalfus/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Lucas Huang (Project Leader 2021-22: Quantum Cryptography Study Group</title>
+      <link>https://yaleqc.com/members/lucas-huang/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yaleqc.com/members/ayelet-kalfus/</guid>
-      <description>Director of Partnerships (2020-21) Physics with Computer Science certificate, Class of 2024 (Gap Year) LinkedIn, Github Ayelet Kalfus is a rising sophomore majoring in physics, with a certificate in computer science. Intrigued by quantum computers’ potential to transform our lives, Ayelet is super excited to join YuQC, learning with and from the entire group. Outside of physics, Ayelet loves reading, writing, film, and exploring new cities.</description>
-    </item>
-    
-    <item>
-      <title>Jean Wang (Board 2020-21)</title>
-      <link>https://yaleqc.com/members/jean-wang/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/jean-wang/</guid>
-      <description>Director of Invited Talks (2020-21) Math and Humanities, Class of 2024 Github Jean is a first-year in Jonathan Edwards College planning to double major in Mathematics and Humanities. She is interested in the mathematics of quantum cryptography and optimizing quantum algorithms. Outside of quantum, she enjoys writing stories and listening to radio.</description>
-    </item>
-    
-    <item>
-      <title>Nikhil Harle (Board 2020-21)</title>
-      <link>https://yaleqc.com/members/nikhil-harle/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/nikhil-harle/</guid>
-      <description>Director of Events Physics, Class of 2023 Github Nikhil is a rising junior and intensive physics major and was previously a fellow at the Center for Quantum Devices in Copenhagen. His interests include preserving quantum information through novel methods of error correction.</description>
-    </item>
-    
-    <item>
-      <title>Seun Omonije (Board 2020-21)</title>
-      <link>https://yaleqc.com/members/seun-omonije/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/seun-omonije/</guid>
-      <description>Director of Open Source Projects (2020-21) Computer Science, Class of 2022 LinkedIn | Github Bio: Oluseun (Seun) Omonije &amp;lsquo;22 is a Computer Science major from Dallas, TX in Silliman College. A two-time Google Intern, Seun got started in quantum during the summer of 2020 while attending a Google AI Quantum event. Since then, he spent a semester as a research assistant for Prof. Lin Zhong&amp;rsquo;s Efficient Computing Lab, helping to solve problems pertaining to quantum error correction, specifically optimizations to the control system between QEC decoders and physical quantum system, as well as the algorithms running within these control systems.</description>
-    </item>
-    
-    <item>
-      <title>Shoumik Chowdhury (Board 2020-21)</title>
-      <link>https://yaleqc.com/members/shoumik-chowdhury/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/shoumik-chowdhury/</guid>
-      <description>Director of Resources (2020-21) Mathematics and Physics, Class of 2021 LinkedIn, Github As a long-time enthusiast of quantum computing, I am incredibly excited that a club like YuQC now exists at Yale. I am really looking forward to meeting other people interested in quantum science, and getting to learn from them — as well as being able to share what I have learned during my years working in this area. Given that Yale is a world-leading institution for quantum information science, it is only fitting that we have a proper undergraduate club dedicated to this field — I can&amp;rsquo;t wait to see what this group gets up to!</description>
-    </item>
-    
-    <item>
-      <title>Ben McDonough (Project Leader 20-21)</title>
-      <link>https://yaleqc.com/members/ben-mcdonough/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/ben-mcdonough/</guid>
-      <description>Physics, Class of 2024 Github Ben is a sophomore in the class of 2024. Ben is a physics major but loves math and computer science as well, and he feels drawn to the interdisciplinary nature of the quantum community. He believes that studying quantum information is a method for investigating fundamental properties of nature. He conducted research under Professor Girvin during the summer of ‘21 into quantum error correction, and he would love to talk to you about it.</description>
-    </item>
-    
-    <item>
-      <title>Argyrios Giannisis Manes (Project Leader 20-21)</title>
-      <link>https://yaleqc.com/members/argyrios-giannisis-manes/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/argyrios-giannisis-manes/</guid>
-      <description>Mathematics and Physics, Class of 2024 LinkedIn, Github Argyris Giannisis Manes is a first-year in Trumbull College, was born in Athens and now lives in Volos, Greece. He intends to major in Mathematics and Physics, and his interests include Math, Physics, CS, Astronomy, Music, Debate, Juggling, and more! He’s been interested in Quantum Computing for a long time, and is really excited to finally have the opportunity to explore Quantum Information alongside peers and mentors.</description>
-    </item>
-    
-    <item>
-      <title>Ben Foxman (Project Leader 20-21)</title>
-      <link>https://yaleqc.com/members/ben-foxman/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/ben-foxman/</guid>
-      <description>Mathematics and Computer Science, Class of 2023 LinkedIn, Github I&amp;rsquo;m a sophomore in Pauli Murray College, double majoring in computer science and math. Quantum Computation interests me because of how many applications would be unlocked when the physical limitations of classical computers. I&amp;rsquo;m especially curious about the vast improvements that could be made to artificial intelligence, and what would be possible for Quantum Computers to &amp;ldquo;learn&amp;rdquo; in the future.</description>
-    </item>
-    
-    <item>
-      <title>Yiğit Kılıçoğlu (Project Leader 20-21)</title>
-      <link>https://yaleqc.com/members/yigit-kilicoglu/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yaleqc.com/members/yigit-kilicoglu/</guid>
-      <description>Computer Science and Physics, Class of 2024 LinkedIn Yiğit is interested in the mathematics of quantum computation. Having a background in programming, he is also into quantum cryptography. Outside of academics, Yiğit is an avid tennis, piano and accordion player.</description>
+      <guid>https://yaleqc.com/members/lucas-huang/</guid>
+      <description>Lucas is a first-year student majoring in Computer Science and Mathematics with a passion in cybersecurity, specializing in cryptography, which eventually led him to develop an interest in quantum cryptography and all things quantum.</description>
     </item>
     
   </channel>
