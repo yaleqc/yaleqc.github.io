@@ -41,8 +41,8 @@
       
       <guid>https://yaleqc.com/p/opportunities-bulletin/</guid>
       <description>Here is a collection of opportunities spanning research projects, internships, hackathons, and more! This list is updated weekly.
-Week of Apr 18, 2021   IBM Quantum Community Partnerships Intern role
- Join IBM Quantum and help their team strengthen the quantum community from the first introduction to quantum through to quantum computing research and development. IBM Quantum Community Partnership Interns will have the opportunity to work on projects related to blogging, scientific and technical writing, quantum education, outreach, community events, and open-source software, among other areas of focus.</description>
+Week of Apr 18, 2021 IBM Quantum Community Partnerships Intern role
+Join IBM Quantum and help their team strengthen the quantum community from the first introduction to quantum through to quantum computing research and development. IBM Quantum Community Partnership Interns will have the opportunity to work on projects related to blogging, scientific and technical writing, quantum education, outreach, community events, and open-source software, among other areas of focus.</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@ Quantum Coalition (Hack) &amp;amp; Partnerships &amp;amp; Outreach
 YuQC Invited Speaker Series
 Social Hours
 Resources
- Yale undergrad Quantum Computing was founded in October of 2020 and, in our first year, we&amp;rsquo;ve done quite a lot. Let&amp;rsquo;s take a look back at our productive year!
+Yale undergrad Quantum Computing was founded in October of 2020 and, in our first year, we&amp;rsquo;ve done quite a lot. Let&amp;rsquo;s take a look back at our productive year!
 Members As shown through data collected at our interest meeting, YuQC brought together students from across disciplines, school years, and experience levels.</description>
     </item>
     
@@ -280,9 +280,9 @@ Members As shown through data collected at our interest meeting, YuQC brought to
       
       <guid>https://yaleqc.com/p/speaker-series-spring-2021/</guid>
       <description>Here is a summary and schedule of the YuQC Speaker Series.
- Information &amp;amp; Recordings Check out this Youtube playlist of all past talk recordings!!
+Information &amp;amp; Recordings Check out this Youtube playlist of all past talk recordings!!
 Please click here (yale.edu account required) to access zoom links, meeting passwords, and, eventually, recordings for this speaker series.
- Dr. Zlatko Minev To catch and reverse a quantum jump mid-flight April 21, 7:00PM-8:00PM ET Dr. Minev is a scientist with an applied experimental and theoretical background, focused on quantum computing and fundamental physics.</description>
+Dr. Zlatko Minev To catch and reverse a quantum jump mid-flight April 21, 7:00PM-8:00PM ET Dr. Minev is a scientist with an applied experimental and theoretical background, focused on quantum computing and fundamental physics.</description>
     </item>
     
     <item>
@@ -377,7 +377,7 @@ Join a project team: Want to see what we&amp;rsquo;re working on? Click here to 
       <description>The Fall 2020 interest meeting was held on Nov 22nd, 2020 from 1:00PM to 1:30PM ET.
 Thanks so much to everyone who could make it.
 If you were unable to attend the event, absolutely no worries. Please take a moment to view (yale.edu email required) the recording and the slides from the meeting.
-Summary  Over 60+ form submissions, with 30+ interest meeting attendees! Each member is involved with at least one &amp;ldquo;project&amp;rdquo;: open-source project, tutorials, hackathon planning outreach, etc.</description>
+Summary Over 60+ form submissions, with 30+ interest meeting attendees! Each member is involved with at least one &amp;ldquo;project&amp;rdquo;: open-source project, tutorials, hackathon planning outreach, etc.</description>
     </item>
     
     <item>
@@ -387,7 +387,7 @@ Summary  Over 60+ form submissions, with 30+ interest meeting attendees! Each me
       
       <guid>https://yaleqc.com/p/quantum-information-science-classes-at-yale/</guid>
       <description>Here is a growing list of Yale classes with applications towards Quantum Information Science. Much more coming soon.
-Quantum Information  Physics 345: Introduction to Quantum Information Processing and Communication, Prof Steven Girvin  Who should take it: Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.</description>
+Quantum Information Physics 345: Introduction to Quantum Information Processing and Communication, Prof Steven Girvin Who should take it: Anyone with a knowledge of complex numbers and introductory linear algebra. This course presents a very accessible and exciting foray into quantum information science. This is highly recommended to anyone looking to begin their journey with quantum computing, with or without a technical physics background.</description>
     </item>
     
     <item>
@@ -397,7 +397,7 @@ Quantum Information  Physics 345: Introduction to Quantum Information Processing
       
       <guid>https://yaleqc.com/p/yale-quantum-institute/</guid>
       <description>Here is a growing list of interdisciplinary Yale efforts in Quantum Computing under the umbrella of the Yale Quantum Institute.
-Useful Sites  quantuminstitute.yale.edu  Yale Quantum Institute Events Institute History Institute Members Join the mailing list!   quantum.yale.edu  A collection of quantum computing research efforts and labs at Yale looking into topics spanning Physics, Applied Physics, Chemistry, Computer Science, and Engineering. Information about the Quantum Week at Yale.</description>
+Useful Sites quantuminstitute.yale.edu Yale Quantum Institute Events Institute History Institute Members Join the mailing list! quantum.yale.edu A collection of quantum computing research efforts and labs at Yale looking into topics spanning Physics, Applied Physics, Chemistry, Computer Science, and Engineering. Information about the Quantum Week at Yale. Comprehensive statistics about the Quantum efforts at Yale.</description>
     </item>
     
     <item>
@@ -409,8 +409,8 @@ Useful Sites  quantuminstitute.yale.edu  Yale Quantum Institute Events Institute
       <description>Here are some resources to help you along with your open source quantum endeavours.
 QC Open Source Projects
 Quantum Open Source Foundation
- Open Source Projects Mentorship Learning Prizes and Funding Projects  Unitary Fund
- Non-profit Microgrants Research projects  </description>
+Open Source Projects Mentorship Learning Prizes and Funding Projects Unitary Fund
+Non-profit Microgrants Research projects </description>
     </item>
     
     <item>
@@ -422,9 +422,9 @@ Quantum Open Source Foundation
       <description>Qiskit is IBM&amp;rsquo;s open source quantum computing SDK. There is a vibrant community of open source developers and quantum advocates.
 Getting Started Join the Qiskit slack!
 Here are some curated tutorials to get yourself started with Qiskit and the IBM Quantum Experience:
- Code your first quantum circuit CH 1-3 of Qiskit Textbook Beginner Tutorials  Events Stay up to date with Qiskit events.
+Code your first quantum circuit CH 1-3 of Qiskit Textbook Beginner Tutorials Events Stay up to date with Qiskit events.
 Past events:
- Hackathons IBM Qiskit Global Summer School  Quantum Advocates Apply to become one of ~200 Quantum Advocate across ~30 countries at IBM.</description>
+Hackathons IBM Qiskit Global Summer School Quantum Advocates Apply to become one of ~200 Quantum Advocate across ~30 countries at IBM.</description>
     </item>
     
     <item>
@@ -434,7 +434,7 @@ Past events:
       
       <guid>https://yaleqc.com/p/qtcodes/</guid>
       <description>Status qtcodes is published on PyPI with tooling to encode, decode and benchmark XXXX/ZZZZ surface code, XZZX surface code, and repetition code!
- About We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.
+About We are building Encoder and Minimum Weight Perfect Matching Graph Decoder tools for serveral Topological Codes we wish to implement in Qiskit Ignis.
 Here is the Github repo: https://github.com/yaleqc/qtcodes
 Here is a link to our project proposal.
 Team The first iteration of this project was created by members Shantanu Jha &amp;lsquo;21, Henry Liu &amp;lsquo;21, Will Sun &amp;lsquo;22, Shraddha Singh (Grad), and Andy Ding (Grad).</description>
@@ -448,7 +448,7 @@ Team The first iteration of this project was created by members Shantanu Jha &am
       <guid>https://yaleqc.com/p/qubit-by-qubit-initiative/</guid>
       <description>Apply for paid and volunteer opportunities at the Qubit by Qubit Initiative.
 Here are some of their current projects:
- Developing homework, problem sets, or worksheets Developing middle or high school curricula for quantum Developing or editing content for textbook for high school students Developing quantum workshop for K-12 students Being a Teaching Assistant for intro course Teaching quantum workshops to K-12 students  Please reach out to member Shoumik Chowdhury &amp;lsquo;21 to learn more!</description>
+Developing homework, problem sets, or worksheets Developing middle or high school curricula for quantum Developing or editing content for textbook for high school students Developing quantum workshop for K-12 students Being a Teaching Assistant for intro course Teaching quantum workshops to K-12 students Please reach out to member Shoumik Chowdhury &amp;lsquo;21 to learn more!</description>
     </item>
     
   </channel>
